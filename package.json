@@ -1,0 +1,12 @@
+{
+  "name": "lingkar-jaya-system",
+  "private": true,
+  "scripts": {
+    "vercel:install": "npm install --prefix backend --include=dev --no-fund --no-audit && npm install --prefix frontend --include=dev --no-fund --no-audit",
+    "vercel:build": "npm --prefix backend run prisma:generate && npm --prefix frontend run build",
+    "vercel:db:migrate": "npm --prefix backend run prisma:migrate:deploy"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

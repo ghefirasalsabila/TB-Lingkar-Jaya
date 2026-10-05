@@ -1,0 +1,22 @@
+{
+  "installCommand": "npm run vercel:install",
+  "buildCommand": "npm run vercel:build",
+  "outputDirectory": "frontend/dist",
+  "regions": ["hnd1"],
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 60,
+      "regions": ["hnd1"]
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "/api?__pathname=:path*"
+    },
+    {
+      "source": "/((?!assets/|.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
