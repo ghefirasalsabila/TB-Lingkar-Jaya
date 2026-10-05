@@ -1,0 +1,98 @@
+[
+  {
+    "id": "seed-category-aplikasi-semen",
+    "name": "Aplikasi Semen",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-behel",
+    "name": "Behel",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-cat",
+    "name": "Cat",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-general",
+    "name": "General",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-kayu",
+    "name": "Kayu",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-listrik",
+    "name": "Listrik",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-material",
+    "name": "Material",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-paku",
+    "name": "Paku",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-pintu-wc",
+    "name": "Pintu WC",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-plamir",
+    "name": "Plamir",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-pvc",
+    "name": "PVC",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  },
+  {
+    "id": "seed-category-rangka-baja",
+    "name": "Rangka Baja",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:46:21.356Z",
+    "updatedAt": "2026-05-08T06:46:21.356Z"
+  }
+]

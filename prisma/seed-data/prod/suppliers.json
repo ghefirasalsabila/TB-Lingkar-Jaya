@@ -1,0 +1,102 @@
+[
+  {
+    "id": "seed-supplier-electrical",
+    "name": "CV Listrik Sinar Teknik",
+    "phone": "081211110005",
+    "address": "Jl. Kelistrikan No. 11, Cikarang",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-fastener",
+    "name": "UD Fastener Konstruksi",
+    "phone": "081211110003",
+    "address": "Jl. Baja Kecil No. 3, Tangerang",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-finishing",
+    "name": "PT Finishing Warna Prima",
+    "phone": "081211110006",
+    "address": "Jl. Cat dan Lem No. 17, Depok",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-general",
+    "name": "CV Serbaguna Niaga Utama",
+    "phone": "081211110010",
+    "address": "Jl. Perdagangan Umum No. 21, Jakarta Selatan",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-material",
+    "name": "PT Material Bangun Nusantara",
+    "phone": "081211110001",
+    "address": "Jl. Raya Industri Bangunan No. 12, Bandung",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-pvc",
+    "name": "CV Pipa Tirta Abadi",
+    "phone": "081211110002",
+    "address": "Jl. Pipa Raya No. 8, Bekasi",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-sanitary",
+    "name": "CV Sanitari Rumah Indah",
+    "phone": "081211110008",
+    "address": "Jl. Sanitari No. 5, Jakarta Timur",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-steel",
+    "name": "PT Baja Ringan Sejahtera",
+    "phone": "081211110004",
+    "address": "Jl. Industri Logam No. 24, Karawang",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-timber",
+    "name": "UD Kayu Makmur Jaya",
+    "phone": "081211110007",
+    "address": "Jl. Kayu Raya No. 6, Bogor",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  },
+  {
+    "id": "seed-supplier-tools",
+    "name": "PT Alat Tukang Sentosa",
+    "phone": "081211110009",
+    "address": "Jl. Perkakas No. 14, Jakarta Barat",
+    "isActive": true,
+    "deletedAt": null,
+    "createdAt": "2026-05-08T06:49:40.521Z",
+    "updatedAt": "2026-05-08T06:49:40.521Z"
+  }
+]

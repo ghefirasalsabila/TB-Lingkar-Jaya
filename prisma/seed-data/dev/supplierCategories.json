@@ -1,0 +1,50 @@
+[
+  {
+    "supplierId": "seed-supplier-electrical",
+    "categoryId": "seed-category-listrik"
+  },
+  {
+    "supplierId": "seed-supplier-fastener",
+    "categoryId": "seed-category-paku"
+  },
+  {
+    "supplierId": "seed-supplier-finishing",
+    "categoryId": "seed-category-cat"
+  },
+  {
+    "supplierId": "seed-supplier-finishing",
+    "categoryId": "seed-category-plamir"
+  },
+  {
+    "supplierId": "seed-supplier-general",
+    "categoryId": "seed-category-general"
+  },
+  {
+    "supplierId": "seed-supplier-material",
+    "categoryId": "seed-category-material"
+  },
+  {
+    "supplierId": "seed-supplier-pvc",
+    "categoryId": "seed-category-pvc"
+  },
+  {
+    "supplierId": "seed-supplier-sanitary",
+    "categoryId": "seed-category-pintu-wc"
+  },
+  {
+    "supplierId": "seed-supplier-steel",
+    "categoryId": "seed-category-behel"
+  },
+  {
+    "supplierId": "seed-supplier-steel",
+    "categoryId": "seed-category-rangka-baja"
+  },
+  {
+    "supplierId": "seed-supplier-timber",
+    "categoryId": "seed-category-kayu"
+  },
+  {
+    "supplierId": "seed-supplier-tools",
+    "categoryId": "seed-category-aplikasi-semen"
+  }
+]

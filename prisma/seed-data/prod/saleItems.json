@@ -1,0 +1,6222 @@
+[
+  {
+    "id": "seed-sale-item-0001-01",
+    "saleId": "seed-sale-0001",
+    "productId": "seed-product-0051",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2025-12-09T10:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0001-02",
+    "saleId": "seed-sale-0001",
+    "productId": "seed-product-0026",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2025-12-09T10:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0001-03",
+    "saleId": "seed-sale-0001",
+    "productId": "seed-product-0096",
+    "qty": 6,
+    "sellPrice": "19000",
+    "subtotal": "114000",
+    "createdAt": "2025-12-09T10:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0002-01",
+    "saleId": "seed-sale-0002",
+    "productId": "seed-product-0138",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2025-12-10T01:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0002-02",
+    "saleId": "seed-sale-0002",
+    "productId": "seed-product-0038",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2025-12-10T01:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0003-01",
+    "saleId": "seed-sale-0003",
+    "productId": "seed-product-0014",
+    "qty": 4,
+    "sellPrice": "6000",
+    "subtotal": "24000",
+    "createdAt": "2025-12-12T06:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0003-02",
+    "saleId": "seed-sale-0003",
+    "productId": "seed-product-0138",
+    "qty": 7,
+    "sellPrice": "11000",
+    "subtotal": "77000",
+    "createdAt": "2025-12-12T06:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0004-01",
+    "saleId": "seed-sale-0004",
+    "productId": "seed-product-0094",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2025-12-13T05:45:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0004-02",
+    "saleId": "seed-sale-0004",
+    "productId": "seed-product-0116",
+    "qty": 1,
+    "sellPrice": "99000",
+    "subtotal": "99000",
+    "createdAt": "2025-12-13T05:45:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0005-01",
+    "saleId": "seed-sale-0005",
+    "productId": "seed-product-0047",
+    "qty": 5,
+    "sellPrice": "11000",
+    "subtotal": "55000",
+    "createdAt": "2025-12-18T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0005-02",
+    "saleId": "seed-sale-0005",
+    "productId": "seed-product-0120",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2025-12-18T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0005-03",
+    "saleId": "seed-sale-0005",
+    "productId": "seed-product-0029",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2025-12-18T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0006-01",
+    "saleId": "seed-sale-0006",
+    "productId": "seed-product-0121",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2025-12-18T06:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0006-02",
+    "saleId": "seed-sale-0006",
+    "productId": "seed-product-0057",
+    "qty": 6,
+    "sellPrice": "31000",
+    "subtotal": "186000",
+    "createdAt": "2025-12-18T06:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0007-01",
+    "saleId": "seed-sale-0007",
+    "productId": "seed-product-0017",
+    "qty": 6,
+    "sellPrice": "6000",
+    "subtotal": "36000",
+    "createdAt": "2025-12-18T09:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0007-02",
+    "saleId": "seed-sale-0007",
+    "productId": "seed-product-0152",
+    "qty": 4,
+    "sellPrice": "93000",
+    "subtotal": "372000",
+    "createdAt": "2025-12-18T09:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0007-03",
+    "saleId": "seed-sale-0007",
+    "productId": "seed-product-0033",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2025-12-18T09:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0007-04",
+    "saleId": "seed-sale-0007",
+    "productId": "seed-product-0077",
+    "qty": 12,
+    "sellPrice": "31000",
+    "subtotal": "372000",
+    "createdAt": "2025-12-18T09:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0008-01",
+    "saleId": "seed-sale-0008",
+    "productId": "seed-product-0026",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2025-12-20T02:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0008-02",
+    "saleId": "seed-sale-0008",
+    "productId": "seed-product-0151",
+    "qty": 3,
+    "sellPrice": "152500",
+    "subtotal": "457500",
+    "createdAt": "2025-12-20T02:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0008-03",
+    "saleId": "seed-sale-0008",
+    "productId": "seed-product-0046",
+    "qty": 6,
+    "sellPrice": "23500",
+    "subtotal": "141000",
+    "createdAt": "2025-12-20T02:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0008-04",
+    "saleId": "seed-sale-0008",
+    "productId": "seed-product-0033",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2025-12-20T02:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0008-05",
+    "saleId": "seed-sale-0008",
+    "productId": "seed-product-0049",
+    "qty": 3,
+    "sellPrice": "11000",
+    "subtotal": "33000",
+    "createdAt": "2025-12-20T02:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0009-01",
+    "saleId": "seed-sale-0009",
+    "productId": "seed-product-0083",
+    "qty": 15,
+    "sellPrice": "6000",
+    "subtotal": "90000",
+    "createdAt": "2025-12-21T08:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0009-02",
+    "saleId": "seed-sale-0009",
+    "productId": "seed-product-0019",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2025-12-21T08:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0010-01",
+    "saleId": "seed-sale-0010",
+    "productId": "seed-product-0043",
+    "qty": 5,
+    "sellPrice": "40000",
+    "subtotal": "200000",
+    "createdAt": "2025-12-22T02:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0010-02",
+    "saleId": "seed-sale-0010",
+    "productId": "seed-product-0075",
+    "qty": 11,
+    "sellPrice": "119000",
+    "subtotal": "1309000",
+    "createdAt": "2025-12-22T02:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0011-01",
+    "saleId": "seed-sale-0011",
+    "productId": "seed-product-0158",
+    "qty": 4,
+    "sellPrice": "245000",
+    "subtotal": "980000",
+    "createdAt": "2025-12-22T05:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0011-02",
+    "saleId": "seed-sale-0011",
+    "productId": "seed-product-0073",
+    "qty": 3,
+    "sellPrice": "119000",
+    "subtotal": "357000",
+    "createdAt": "2025-12-22T05:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0011-03",
+    "saleId": "seed-sale-0011",
+    "productId": "seed-product-0006",
+    "qty": 355,
+    "sellPrice": "1500",
+    "subtotal": "532500",
+    "createdAt": "2025-12-22T05:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0012-01",
+    "saleId": "seed-sale-0012",
+    "productId": "seed-product-0080",
+    "qty": 7,
+    "sellPrice": "11000",
+    "subtotal": "77000",
+    "createdAt": "2025-12-22T05:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0012-02",
+    "saleId": "seed-sale-0012",
+    "productId": "seed-product-0052",
+    "qty": 7,
+    "sellPrice": "53000",
+    "subtotal": "371000",
+    "createdAt": "2025-12-22T05:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0012-03",
+    "saleId": "seed-sale-0012",
+    "productId": "seed-product-0018",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2025-12-22T05:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0013-01",
+    "saleId": "seed-sale-0013",
+    "productId": "seed-product-0132",
+    "qty": 1,
+    "sellPrice": "1535000",
+    "subtotal": "1535000",
+    "createdAt": "2025-12-22T05:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0013-02",
+    "saleId": "seed-sale-0013",
+    "productId": "seed-product-0102",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2025-12-22T05:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0014-01",
+    "saleId": "seed-sale-0014",
+    "productId": "seed-product-0003",
+    "qty": 1,
+    "sellPrice": "427500",
+    "subtotal": "427500",
+    "createdAt": "2025-12-22T06:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0014-02",
+    "saleId": "seed-sale-0014",
+    "productId": "seed-product-0015",
+    "qty": 3,
+    "sellPrice": "6000",
+    "subtotal": "18000",
+    "createdAt": "2025-12-22T06:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0014-03",
+    "saleId": "seed-sale-0014",
+    "productId": "seed-product-0134",
+    "qty": 19,
+    "sellPrice": "14000",
+    "subtotal": "266000",
+    "createdAt": "2025-12-22T06:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0015-01",
+    "saleId": "seed-sale-0015",
+    "productId": "seed-product-0014",
+    "qty": 1,
+    "sellPrice": "6000",
+    "subtotal": "6000",
+    "createdAt": "2025-12-22T08:52:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0015-02",
+    "saleId": "seed-sale-0015",
+    "productId": "seed-product-0011",
+    "qty": 6,
+    "sellPrice": "106000",
+    "subtotal": "636000",
+    "createdAt": "2025-12-22T08:52:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0015-03",
+    "saleId": "seed-sale-0015",
+    "productId": "seed-product-0004",
+    "qty": 1,
+    "sellPrice": "512500",
+    "subtotal": "512500",
+    "createdAt": "2025-12-22T08:52:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0016-01",
+    "saleId": "seed-sale-0016",
+    "productId": "seed-product-0047",
+    "qty": 8,
+    "sellPrice": "11000",
+    "subtotal": "88000",
+    "createdAt": "2025-12-24T07:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0016-02",
+    "saleId": "seed-sale-0016",
+    "productId": "seed-product-0158",
+    "qty": 5,
+    "sellPrice": "245000",
+    "subtotal": "1225000",
+    "createdAt": "2025-12-24T07:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0016-03",
+    "saleId": "seed-sale-0016",
+    "productId": "seed-product-0083",
+    "qty": 11,
+    "sellPrice": "6000",
+    "subtotal": "66000",
+    "createdAt": "2025-12-24T07:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0016-04",
+    "saleId": "seed-sale-0016",
+    "productId": "seed-product-0112",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2025-12-24T07:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0016-05",
+    "saleId": "seed-sale-0016",
+    "productId": "seed-product-0075",
+    "qty": 7,
+    "sellPrice": "119000",
+    "subtotal": "833000",
+    "createdAt": "2025-12-24T07:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0017-01",
+    "saleId": "seed-sale-0017",
+    "productId": "seed-product-0103",
+    "qty": 2,
+    "sellPrice": "15500",
+    "subtotal": "31000",
+    "createdAt": "2025-12-25T01:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0017-02",
+    "saleId": "seed-sale-0017",
+    "productId": "seed-product-0114",
+    "qty": 1,
+    "sellPrice": "119000",
+    "subtotal": "119000",
+    "createdAt": "2025-12-25T01:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0017-03",
+    "saleId": "seed-sale-0017",
+    "productId": "seed-product-0024",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2025-12-25T01:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0017-04",
+    "saleId": "seed-sale-0017",
+    "productId": "seed-product-0135",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2025-12-25T01:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0017-05",
+    "saleId": "seed-sale-0017",
+    "productId": "seed-product-0031",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2025-12-25T01:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0018-01",
+    "saleId": "seed-sale-0018",
+    "productId": "seed-product-0159",
+    "qty": 3,
+    "sellPrice": "66000",
+    "subtotal": "198000",
+    "createdAt": "2025-12-26T08:54:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0018-02",
+    "saleId": "seed-sale-0018",
+    "productId": "seed-product-0016",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2025-12-26T08:54:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0018-03",
+    "saleId": "seed-sale-0018",
+    "productId": "seed-product-0023",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2025-12-26T08:54:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0018-04",
+    "saleId": "seed-sale-0018",
+    "productId": "seed-product-0156",
+    "qty": 1,
+    "sellPrice": "33000",
+    "subtotal": "33000",
+    "createdAt": "2025-12-26T08:54:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0018-05",
+    "saleId": "seed-sale-0018",
+    "productId": "seed-product-0032",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2025-12-26T08:54:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0019-01",
+    "saleId": "seed-sale-0019",
+    "productId": "seed-product-0034",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2025-12-27T07:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0019-02",
+    "saleId": "seed-sale-0019",
+    "productId": "seed-product-0125",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2025-12-27T07:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0019-03",
+    "saleId": "seed-sale-0019",
+    "productId": "seed-product-0079",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2025-12-27T07:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0020-01",
+    "saleId": "seed-sale-0020",
+    "productId": "seed-product-0056",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2025-12-28T06:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0020-02",
+    "saleId": "seed-sale-0020",
+    "productId": "seed-product-0030",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2025-12-28T06:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0020-03",
+    "saleId": "seed-sale-0020",
+    "productId": "seed-product-0059",
+    "qty": 4,
+    "sellPrice": "31000",
+    "subtotal": "124000",
+    "createdAt": "2025-12-28T06:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0021-01",
+    "saleId": "seed-sale-0021",
+    "productId": "seed-product-0082",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2025-12-28T07:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0021-02",
+    "saleId": "seed-sale-0021",
+    "productId": "seed-product-0024",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2025-12-28T07:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0021-03",
+    "saleId": "seed-sale-0021",
+    "productId": "seed-product-0080",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2025-12-28T07:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0022-01",
+    "saleId": "seed-sale-0022",
+    "productId": "seed-product-0158",
+    "qty": 3,
+    "sellPrice": "245000",
+    "subtotal": "735000",
+    "createdAt": "2025-12-29T02:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0022-02",
+    "saleId": "seed-sale-0022",
+    "productId": "seed-product-0076",
+    "qty": 3,
+    "sellPrice": "119000",
+    "subtotal": "357000",
+    "createdAt": "2025-12-29T02:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0022-03",
+    "saleId": "seed-sale-0022",
+    "productId": "seed-product-0013",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2025-12-29T02:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0023-01",
+    "saleId": "seed-sale-0023",
+    "productId": "seed-product-0062",
+    "qty": 4,
+    "sellPrice": "53000",
+    "subtotal": "212000",
+    "createdAt": "2025-12-29T04:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0023-02",
+    "saleId": "seed-sale-0023",
+    "productId": "seed-product-0096",
+    "qty": 8,
+    "sellPrice": "19000",
+    "subtotal": "152000",
+    "createdAt": "2025-12-29T04:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0023-03",
+    "saleId": "seed-sale-0023",
+    "productId": "seed-product-0100",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2025-12-29T04:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0023-04",
+    "saleId": "seed-sale-0023",
+    "productId": "seed-product-0007",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2025-12-29T04:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0024-01",
+    "saleId": "seed-sale-0024",
+    "productId": "seed-product-0147",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2025-12-31T02:58:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0024-02",
+    "saleId": "seed-sale-0024",
+    "productId": "seed-product-0032",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2025-12-31T02:58:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0024-03",
+    "saleId": "seed-sale-0024",
+    "productId": "seed-product-0081",
+    "qty": 3,
+    "sellPrice": "33000",
+    "subtotal": "99000",
+    "createdAt": "2025-12-31T02:58:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0024-04",
+    "saleId": "seed-sale-0024",
+    "productId": "seed-product-0083",
+    "qty": 12,
+    "sellPrice": "6000",
+    "subtotal": "72000",
+    "createdAt": "2025-12-31T02:58:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0024-05",
+    "saleId": "seed-sale-0024",
+    "productId": "seed-product-0084",
+    "qty": 20,
+    "sellPrice": "6000",
+    "subtotal": "120000",
+    "createdAt": "2025-12-31T02:58:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0025-01",
+    "saleId": "seed-sale-0025",
+    "productId": "seed-product-0095",
+    "qty": 1,
+    "sellPrice": "172500",
+    "subtotal": "172500",
+    "createdAt": "2025-12-31T05:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0025-02",
+    "saleId": "seed-sale-0025",
+    "productId": "seed-product-0160",
+    "qty": 1,
+    "sellPrice": "66000",
+    "subtotal": "66000",
+    "createdAt": "2025-12-31T05:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0026-01",
+    "saleId": "seed-sale-0026",
+    "productId": "seed-product-0066",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-01-02T02:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0026-02",
+    "saleId": "seed-sale-0026",
+    "productId": "seed-product-0159",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-01-02T02:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0026-03",
+    "saleId": "seed-sale-0026",
+    "productId": "seed-product-0125",
+    "qty": 10,
+    "sellPrice": "9500",
+    "subtotal": "95000",
+    "createdAt": "2026-01-02T02:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0027-01",
+    "saleId": "seed-sale-0027",
+    "productId": "seed-product-0083",
+    "qty": 21,
+    "sellPrice": "6000",
+    "subtotal": "126000",
+    "createdAt": "2026-01-02T02:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0027-02",
+    "saleId": "seed-sale-0027",
+    "productId": "seed-product-0016",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-01-02T02:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0027-03",
+    "saleId": "seed-sale-0027",
+    "productId": "seed-product-0084",
+    "qty": 10,
+    "sellPrice": "6000",
+    "subtotal": "60000",
+    "createdAt": "2026-01-02T02:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0027-04",
+    "saleId": "seed-sale-0027",
+    "productId": "seed-product-0005",
+    "qty": 3,
+    "sellPrice": "512500",
+    "subtotal": "1537500",
+    "createdAt": "2026-01-02T02:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0027-05",
+    "saleId": "seed-sale-0027",
+    "productId": "seed-product-0036",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-01-02T02:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0028-01",
+    "saleId": "seed-sale-0028",
+    "productId": "seed-product-0031",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-01-03T03:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0028-02",
+    "saleId": "seed-sale-0028",
+    "productId": "seed-product-0080",
+    "qty": 5,
+    "sellPrice": "11000",
+    "subtotal": "55000",
+    "createdAt": "2026-01-03T03:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0029-01",
+    "saleId": "seed-sale-0029",
+    "productId": "seed-product-0047",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2026-01-03T10:38:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0029-02",
+    "saleId": "seed-sale-0029",
+    "productId": "seed-product-0158",
+    "qty": 5,
+    "sellPrice": "245000",
+    "subtotal": "1225000",
+    "createdAt": "2026-01-03T10:38:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0029-03",
+    "saleId": "seed-sale-0029",
+    "productId": "seed-product-0017",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-01-03T10:38:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0029-04",
+    "saleId": "seed-sale-0029",
+    "productId": "seed-product-0061",
+    "qty": 4,
+    "sellPrice": "53000",
+    "subtotal": "212000",
+    "createdAt": "2026-01-03T10:38:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0029-05",
+    "saleId": "seed-sale-0029",
+    "productId": "seed-product-0130",
+    "qty": 3,
+    "sellPrice": "66000",
+    "subtotal": "198000",
+    "createdAt": "2026-01-03T10:38:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0030-01",
+    "saleId": "seed-sale-0030",
+    "productId": "seed-product-0024",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-01-05T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0030-02",
+    "saleId": "seed-sale-0030",
+    "productId": "seed-product-0105",
+    "qty": 2,
+    "sellPrice": "47000",
+    "subtotal": "94000",
+    "createdAt": "2026-01-05T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0030-03",
+    "saleId": "seed-sale-0030",
+    "productId": "seed-product-0092",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-01-05T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0030-04",
+    "saleId": "seed-sale-0030",
+    "productId": "seed-product-0099",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-01-05T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0031-01",
+    "saleId": "seed-sale-0031",
+    "productId": "seed-product-0072",
+    "qty": 1,
+    "sellPrice": "53000",
+    "subtotal": "53000",
+    "createdAt": "2026-01-07T03:10:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0031-02",
+    "saleId": "seed-sale-0031",
+    "productId": "seed-product-0043",
+    "qty": 4,
+    "sellPrice": "40000",
+    "subtotal": "160000",
+    "createdAt": "2026-01-07T03:10:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0031-03",
+    "saleId": "seed-sale-0031",
+    "productId": "seed-product-0047",
+    "qty": 7,
+    "sellPrice": "11000",
+    "subtotal": "77000",
+    "createdAt": "2026-01-07T03:10:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0032-01",
+    "saleId": "seed-sale-0032",
+    "productId": "seed-product-0043",
+    "qty": 8,
+    "sellPrice": "40000",
+    "subtotal": "320000",
+    "createdAt": "2026-01-08T01:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0032-02",
+    "saleId": "seed-sale-0032",
+    "productId": "seed-product-0050",
+    "qty": 3,
+    "sellPrice": "11000",
+    "subtotal": "33000",
+    "createdAt": "2026-01-08T01:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0032-03",
+    "saleId": "seed-sale-0032",
+    "productId": "seed-product-0032",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-01-08T01:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0032-04",
+    "saleId": "seed-sale-0032",
+    "productId": "seed-product-0069",
+    "qty": 8,
+    "sellPrice": "12500",
+    "subtotal": "100000",
+    "createdAt": "2026-01-08T01:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0033-01",
+    "saleId": "seed-sale-0033",
+    "productId": "seed-product-0055",
+    "qty": 3,
+    "sellPrice": "31000",
+    "subtotal": "93000",
+    "createdAt": "2026-01-08T01:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0033-02",
+    "saleId": "seed-sale-0033",
+    "productId": "seed-product-0030",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-01-08T01:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0033-03",
+    "saleId": "seed-sale-0033",
+    "productId": "seed-product-0116",
+    "qty": 2,
+    "sellPrice": "99000",
+    "subtotal": "198000",
+    "createdAt": "2026-01-08T01:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0033-04",
+    "saleId": "seed-sale-0033",
+    "productId": "seed-product-0094",
+    "qty": 8,
+    "sellPrice": "19000",
+    "subtotal": "152000",
+    "createdAt": "2026-01-08T01:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0034-01",
+    "saleId": "seed-sale-0034",
+    "productId": "seed-product-0124",
+    "qty": 2,
+    "sellPrice": "147500",
+    "subtotal": "295000",
+    "createdAt": "2026-01-08T06:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0034-02",
+    "saleId": "seed-sale-0034",
+    "productId": "seed-product-0158",
+    "qty": 3,
+    "sellPrice": "245000",
+    "subtotal": "735000",
+    "createdAt": "2026-01-08T06:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0034-03",
+    "saleId": "seed-sale-0034",
+    "productId": "seed-product-0102",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-01-08T06:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0035-01",
+    "saleId": "seed-sale-0035",
+    "productId": "seed-product-0125",
+    "qty": 21,
+    "sellPrice": "9500",
+    "subtotal": "199500",
+    "createdAt": "2026-01-10T04:31:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0035-02",
+    "saleId": "seed-sale-0035",
+    "productId": "seed-product-0045",
+    "qty": 7,
+    "sellPrice": "23500",
+    "subtotal": "164500",
+    "createdAt": "2026-01-10T04:31:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0035-03",
+    "saleId": "seed-sale-0035",
+    "productId": "seed-product-0058",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2026-01-10T04:31:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0035-04",
+    "saleId": "seed-sale-0035",
+    "productId": "seed-product-0026",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-01-10T04:31:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0036-01",
+    "saleId": "seed-sale-0036",
+    "productId": "seed-product-0122",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2026-01-10T07:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0036-02",
+    "saleId": "seed-sale-0036",
+    "productId": "seed-product-0109",
+    "qty": 1,
+    "sellPrice": "147500",
+    "subtotal": "147500",
+    "createdAt": "2026-01-10T07:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0036-03",
+    "saleId": "seed-sale-0036",
+    "productId": "seed-product-0011",
+    "qty": 7,
+    "sellPrice": "106000",
+    "subtotal": "742000",
+    "createdAt": "2026-01-10T07:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0036-04",
+    "saleId": "seed-sale-0036",
+    "productId": "seed-product-0046",
+    "qty": 7,
+    "sellPrice": "23500",
+    "subtotal": "164500",
+    "createdAt": "2026-01-10T07:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0037-01",
+    "saleId": "seed-sale-0037",
+    "productId": "seed-product-0102",
+    "qty": 3,
+    "sellPrice": "11000",
+    "subtotal": "33000",
+    "createdAt": "2026-01-10T09:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0037-02",
+    "saleId": "seed-sale-0037",
+    "productId": "seed-product-0070",
+    "qty": 9,
+    "sellPrice": "140000",
+    "subtotal": "1260000",
+    "createdAt": "2026-01-10T09:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0037-03",
+    "saleId": "seed-sale-0037",
+    "productId": "seed-product-0040",
+    "qty": 5,
+    "sellPrice": "40000",
+    "subtotal": "200000",
+    "createdAt": "2026-01-10T09:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0038-01",
+    "saleId": "seed-sale-0038",
+    "productId": "seed-product-0084",
+    "qty": 8,
+    "sellPrice": "6000",
+    "subtotal": "48000",
+    "createdAt": "2026-01-12T08:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0038-02",
+    "saleId": "seed-sale-0038",
+    "productId": "seed-product-0049",
+    "qty": 6,
+    "sellPrice": "11000",
+    "subtotal": "66000",
+    "createdAt": "2026-01-12T08:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0038-03",
+    "saleId": "seed-sale-0038",
+    "productId": "seed-product-0089",
+    "qty": 1,
+    "sellPrice": "33000",
+    "subtotal": "33000",
+    "createdAt": "2026-01-12T08:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0038-04",
+    "saleId": "seed-sale-0038",
+    "productId": "seed-product-0115",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-01-12T08:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0038-05",
+    "saleId": "seed-sale-0038",
+    "productId": "seed-product-0053",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-01-12T08:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0039-01",
+    "saleId": "seed-sale-0039",
+    "productId": "seed-product-0138",
+    "qty": 6,
+    "sellPrice": "11000",
+    "subtotal": "66000",
+    "createdAt": "2026-01-12T10:30:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0039-02",
+    "saleId": "seed-sale-0039",
+    "productId": "seed-product-0019",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-01-12T10:30:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0040-01",
+    "saleId": "seed-sale-0040",
+    "productId": "seed-product-0008",
+    "qty": 9,
+    "sellPrice": "106000",
+    "subtotal": "954000",
+    "createdAt": "2026-01-13T05:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0040-02",
+    "saleId": "seed-sale-0040",
+    "productId": "seed-product-0026",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-01-13T05:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0040-03",
+    "saleId": "seed-sale-0040",
+    "productId": "seed-product-0058",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-01-13T05:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0041-01",
+    "saleId": "seed-sale-0041",
+    "productId": "seed-product-0026",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-01-13T05:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0041-02",
+    "saleId": "seed-sale-0041",
+    "productId": "seed-product-0057",
+    "qty": 5,
+    "sellPrice": "31000",
+    "subtotal": "155000",
+    "createdAt": "2026-01-13T05:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0041-03",
+    "saleId": "seed-sale-0041",
+    "productId": "seed-product-0099",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-01-13T05:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0041-04",
+    "saleId": "seed-sale-0041",
+    "productId": "seed-product-0121",
+    "qty": 7,
+    "sellPrice": "19000",
+    "subtotal": "133000",
+    "createdAt": "2026-01-13T05:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0042-01",
+    "saleId": "seed-sale-0042",
+    "productId": "seed-product-0021",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-01-15T03:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0042-02",
+    "saleId": "seed-sale-0042",
+    "productId": "seed-product-0037",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-01-15T03:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0042-03",
+    "saleId": "seed-sale-0042",
+    "productId": "seed-product-0036",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-01-15T03:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0043-01",
+    "saleId": "seed-sale-0043",
+    "productId": "seed-product-0035",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-01-15T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0043-02",
+    "saleId": "seed-sale-0043",
+    "productId": "seed-product-0060",
+    "qty": 3,
+    "sellPrice": "31000",
+    "subtotal": "93000",
+    "createdAt": "2026-01-15T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0044-01",
+    "saleId": "seed-sale-0044",
+    "productId": "seed-product-0150",
+    "qty": 1,
+    "sellPrice": "245000",
+    "subtotal": "245000",
+    "createdAt": "2026-01-15T07:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0044-02",
+    "saleId": "seed-sale-0044",
+    "productId": "seed-product-0111",
+    "qty": 1,
+    "sellPrice": "119000",
+    "subtotal": "119000",
+    "createdAt": "2026-01-15T07:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0044-03",
+    "saleId": "seed-sale-0044",
+    "productId": "seed-product-0084",
+    "qty": 20,
+    "sellPrice": "6000",
+    "subtotal": "120000",
+    "createdAt": "2026-01-15T07:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0045-01",
+    "saleId": "seed-sale-0045",
+    "productId": "seed-product-0022",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-01-17T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0045-02",
+    "saleId": "seed-sale-0045",
+    "productId": "seed-product-0119",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-01-17T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0045-03",
+    "saleId": "seed-sale-0045",
+    "productId": "seed-product-0051",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-01-17T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0045-04",
+    "saleId": "seed-sale-0045",
+    "productId": "seed-product-0008",
+    "qty": 4,
+    "sellPrice": "106000",
+    "subtotal": "424000",
+    "createdAt": "2026-01-17T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0046-01",
+    "saleId": "seed-sale-0046",
+    "productId": "seed-product-0082",
+    "qty": 11,
+    "sellPrice": "11000",
+    "subtotal": "121000",
+    "createdAt": "2026-01-19T01:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0046-02",
+    "saleId": "seed-sale-0046",
+    "productId": "seed-product-0014",
+    "qty": 4,
+    "sellPrice": "6000",
+    "subtotal": "24000",
+    "createdAt": "2026-01-19T01:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0046-03",
+    "saleId": "seed-sale-0046",
+    "productId": "seed-product-0032",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-01-19T01:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0046-04",
+    "saleId": "seed-sale-0046",
+    "productId": "seed-product-0142",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-01-19T01:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0046-05",
+    "saleId": "seed-sale-0046",
+    "productId": "seed-product-0041",
+    "qty": 8,
+    "sellPrice": "40000",
+    "subtotal": "320000",
+    "createdAt": "2026-01-19T01:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0047-01",
+    "saleId": "seed-sale-0047",
+    "productId": "seed-product-0022",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-01-20T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0047-02",
+    "saleId": "seed-sale-0047",
+    "productId": "seed-product-0101",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2026-01-20T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0047-03",
+    "saleId": "seed-sale-0047",
+    "productId": "seed-product-0026",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-01-20T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0048-01",
+    "saleId": "seed-sale-0048",
+    "productId": "seed-product-0074",
+    "qty": 9,
+    "sellPrice": "119000",
+    "subtotal": "1071000",
+    "createdAt": "2026-01-22T01:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0048-02",
+    "saleId": "seed-sale-0048",
+    "productId": "seed-product-0094",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-01-22T01:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0048-03",
+    "saleId": "seed-sale-0048",
+    "productId": "seed-product-0062",
+    "qty": 2,
+    "sellPrice": "53000",
+    "subtotal": "106000",
+    "createdAt": "2026-01-22T01:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0049-01",
+    "saleId": "seed-sale-0049",
+    "productId": "seed-product-0074",
+    "qty": 3,
+    "sellPrice": "119000",
+    "subtotal": "357000",
+    "createdAt": "2026-01-22T09:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0049-02",
+    "saleId": "seed-sale-0049",
+    "productId": "seed-product-0131",
+    "qty": 20,
+    "sellPrice": "31000",
+    "subtotal": "620000",
+    "createdAt": "2026-01-22T09:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0050-01",
+    "saleId": "seed-sale-0050",
+    "productId": "seed-product-0029",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-01-23T06:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0050-02",
+    "saleId": "seed-sale-0050",
+    "productId": "seed-product-0033",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-01-23T06:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0050-03",
+    "saleId": "seed-sale-0050",
+    "productId": "seed-product-0019",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-01-23T06:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0050-04",
+    "saleId": "seed-sale-0050",
+    "productId": "seed-product-0135",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-01-23T06:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0051-01",
+    "saleId": "seed-sale-0051",
+    "productId": "seed-product-0005",
+    "qty": 3,
+    "sellPrice": "512500",
+    "subtotal": "1537500",
+    "createdAt": "2026-01-23T06:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0051-02",
+    "saleId": "seed-sale-0051",
+    "productId": "seed-product-0034",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-01-23T06:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0051-03",
+    "saleId": "seed-sale-0051",
+    "productId": "seed-product-0030",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-01-23T06:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0051-04",
+    "saleId": "seed-sale-0051",
+    "productId": "seed-product-0052",
+    "qty": 2,
+    "sellPrice": "53000",
+    "subtotal": "106000",
+    "createdAt": "2026-01-23T06:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0051-05",
+    "saleId": "seed-sale-0051",
+    "productId": "seed-product-0049",
+    "qty": 7,
+    "sellPrice": "11000",
+    "subtotal": "77000",
+    "createdAt": "2026-01-23T06:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0052-01",
+    "saleId": "seed-sale-0052",
+    "productId": "seed-product-0023",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-01-24T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0052-02",
+    "saleId": "seed-sale-0052",
+    "productId": "seed-product-0020",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-01-24T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0052-03",
+    "saleId": "seed-sale-0052",
+    "productId": "seed-product-0061",
+    "qty": 1,
+    "sellPrice": "53000",
+    "subtotal": "53000",
+    "createdAt": "2026-01-24T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0053-01",
+    "saleId": "seed-sale-0053",
+    "productId": "seed-product-0094",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-01-26T03:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0053-02",
+    "saleId": "seed-sale-0053",
+    "productId": "seed-product-0157",
+    "qty": 1,
+    "sellPrice": "33000",
+    "subtotal": "33000",
+    "createdAt": "2026-01-26T03:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0053-03",
+    "saleId": "seed-sale-0053",
+    "productId": "seed-product-0054",
+    "qty": 7,
+    "sellPrice": "31000",
+    "subtotal": "217000",
+    "createdAt": "2026-01-26T03:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0053-04",
+    "saleId": "seed-sale-0053",
+    "productId": "seed-product-0068",
+    "qty": 7,
+    "sellPrice": "12500",
+    "subtotal": "87500",
+    "createdAt": "2026-01-26T03:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0054-01",
+    "saleId": "seed-sale-0054",
+    "productId": "seed-product-0102",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2026-01-26T04:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0054-02",
+    "saleId": "seed-sale-0054",
+    "productId": "seed-product-0090",
+    "qty": 5,
+    "sellPrice": "33000",
+    "subtotal": "165000",
+    "createdAt": "2026-01-26T04:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0055-01",
+    "saleId": "seed-sale-0055",
+    "productId": "seed-product-0014",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-01-27T03:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0055-02",
+    "saleId": "seed-sale-0055",
+    "productId": "seed-product-0058",
+    "qty": 3,
+    "sellPrice": "31000",
+    "subtotal": "93000",
+    "createdAt": "2026-01-27T03:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0056-01",
+    "saleId": "seed-sale-0056",
+    "productId": "seed-product-0103",
+    "qty": 2,
+    "sellPrice": "15500",
+    "subtotal": "31000",
+    "createdAt": "2026-01-28T07:23:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0056-02",
+    "saleId": "seed-sale-0056",
+    "productId": "seed-product-0025",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-01-28T07:23:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0056-03",
+    "saleId": "seed-sale-0056",
+    "productId": "seed-product-0152",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-01-28T07:23:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0056-04",
+    "saleId": "seed-sale-0056",
+    "productId": "seed-product-0068",
+    "qty": 2,
+    "sellPrice": "12500",
+    "subtotal": "25000",
+    "createdAt": "2026-01-28T07:23:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0057-01",
+    "saleId": "seed-sale-0057",
+    "productId": "seed-product-0057",
+    "qty": 12,
+    "sellPrice": "31000",
+    "subtotal": "372000",
+    "createdAt": "2026-01-28T08:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0057-02",
+    "saleId": "seed-sale-0057",
+    "productId": "seed-product-0040",
+    "qty": 6,
+    "sellPrice": "40000",
+    "subtotal": "240000",
+    "createdAt": "2026-01-28T08:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0057-03",
+    "saleId": "seed-sale-0057",
+    "productId": "seed-product-0102",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-01-28T08:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0057-04",
+    "saleId": "seed-sale-0057",
+    "productId": "seed-product-0153",
+    "qty": 1,
+    "sellPrice": "106000",
+    "subtotal": "106000",
+    "createdAt": "2026-01-28T08:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0058-01",
+    "saleId": "seed-sale-0058",
+    "productId": "seed-product-0093",
+    "qty": 4,
+    "sellPrice": "93000",
+    "subtotal": "372000",
+    "createdAt": "2026-01-28T10:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0058-02",
+    "saleId": "seed-sale-0058",
+    "productId": "seed-product-0028",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-01-28T10:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0058-03",
+    "saleId": "seed-sale-0058",
+    "productId": "seed-product-0057",
+    "qty": 8,
+    "sellPrice": "31000",
+    "subtotal": "248000",
+    "createdAt": "2026-01-28T10:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0059-01",
+    "saleId": "seed-sale-0059",
+    "productId": "seed-product-0022",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-01-30T05:10:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0059-02",
+    "saleId": "seed-sale-0059",
+    "productId": "seed-product-0041",
+    "qty": 2,
+    "sellPrice": "40000",
+    "subtotal": "80000",
+    "createdAt": "2026-01-30T05:10:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0059-03",
+    "saleId": "seed-sale-0059",
+    "productId": "seed-product-0134",
+    "qty": 7,
+    "sellPrice": "14000",
+    "subtotal": "98000",
+    "createdAt": "2026-01-30T05:10:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0060-01",
+    "saleId": "seed-sale-0060",
+    "productId": "seed-product-0018",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-01-30T10:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0060-02",
+    "saleId": "seed-sale-0060",
+    "productId": "seed-product-0129",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-01-30T10:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0061-01",
+    "saleId": "seed-sale-0061",
+    "productId": "seed-product-0042",
+    "qty": 3,
+    "sellPrice": "40000",
+    "subtotal": "120000",
+    "createdAt": "2026-02-02T09:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0061-02",
+    "saleId": "seed-sale-0061",
+    "productId": "seed-product-0030",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-02-02T09:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0061-03",
+    "saleId": "seed-sale-0061",
+    "productId": "seed-product-0101",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-02-02T09:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0062-01",
+    "saleId": "seed-sale-0062",
+    "productId": "seed-product-0082",
+    "qty": 10,
+    "sellPrice": "11000",
+    "subtotal": "110000",
+    "createdAt": "2026-02-02T09:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0062-02",
+    "saleId": "seed-sale-0062",
+    "productId": "seed-product-0050",
+    "qty": 4,
+    "sellPrice": "11000",
+    "subtotal": "44000",
+    "createdAt": "2026-02-02T09:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0062-03",
+    "saleId": "seed-sale-0062",
+    "productId": "seed-product-0073",
+    "qty": 7,
+    "sellPrice": "119000",
+    "subtotal": "833000",
+    "createdAt": "2026-02-02T09:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0063-01",
+    "saleId": "seed-sale-0063",
+    "productId": "seed-product-0129",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-02-04T03:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0063-02",
+    "saleId": "seed-sale-0063",
+    "productId": "seed-product-0117",
+    "qty": 1,
+    "sellPrice": "80000",
+    "subtotal": "80000",
+    "createdAt": "2026-02-04T03:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0063-03",
+    "saleId": "seed-sale-0063",
+    "productId": "seed-product-0045",
+    "qty": 7,
+    "sellPrice": "23500",
+    "subtotal": "164500",
+    "createdAt": "2026-02-04T03:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0063-04",
+    "saleId": "seed-sale-0063",
+    "productId": "seed-product-0080",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-02-04T03:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0064-01",
+    "saleId": "seed-sale-0064",
+    "productId": "seed-product-0039",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-02-04T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0064-02",
+    "saleId": "seed-sale-0064",
+    "productId": "seed-product-0130",
+    "qty": 1,
+    "sellPrice": "66000",
+    "subtotal": "66000",
+    "createdAt": "2026-02-04T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0064-03",
+    "saleId": "seed-sale-0064",
+    "productId": "seed-product-0017",
+    "qty": 5,
+    "sellPrice": "6000",
+    "subtotal": "30000",
+    "createdAt": "2026-02-04T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0065-01",
+    "saleId": "seed-sale-0065",
+    "productId": "seed-product-0071",
+    "qty": 4,
+    "sellPrice": "115000",
+    "subtotal": "460000",
+    "createdAt": "2026-02-04T06:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0065-02",
+    "saleId": "seed-sale-0065",
+    "productId": "seed-product-0026",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-02-04T06:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0065-03",
+    "saleId": "seed-sale-0065",
+    "productId": "seed-product-0134",
+    "qty": 10,
+    "sellPrice": "14000",
+    "subtotal": "140000",
+    "createdAt": "2026-02-04T06:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0065-04",
+    "saleId": "seed-sale-0065",
+    "productId": "seed-product-0001",
+    "qty": 11,
+    "sellPrice": "89000",
+    "subtotal": "979000",
+    "createdAt": "2026-02-04T06:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0065-05",
+    "saleId": "seed-sale-0065",
+    "productId": "seed-product-0029",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-02-04T06:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0066-01",
+    "saleId": "seed-sale-0066",
+    "productId": "seed-product-0148",
+    "qty": 2,
+    "sellPrice": "132000",
+    "subtotal": "264000",
+    "createdAt": "2026-02-04T07:51:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0066-02",
+    "saleId": "seed-sale-0066",
+    "productId": "seed-product-0008",
+    "qty": 11,
+    "sellPrice": "106000",
+    "subtotal": "1166000",
+    "createdAt": "2026-02-04T07:51:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0067-01",
+    "saleId": "seed-sale-0067",
+    "productId": "seed-product-0070",
+    "qty": 3,
+    "sellPrice": "140000",
+    "subtotal": "420000",
+    "createdAt": "2026-02-04T07:53:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0067-02",
+    "saleId": "seed-sale-0067",
+    "productId": "seed-product-0030",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-02-04T07:53:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0068-01",
+    "saleId": "seed-sale-0068",
+    "productId": "seed-product-0142",
+    "qty": 1,
+    "sellPrice": "93000",
+    "subtotal": "93000",
+    "createdAt": "2026-02-05T02:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0068-02",
+    "saleId": "seed-sale-0068",
+    "productId": "seed-product-0096",
+    "qty": 6,
+    "sellPrice": "19000",
+    "subtotal": "114000",
+    "createdAt": "2026-02-05T02:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0068-03",
+    "saleId": "seed-sale-0068",
+    "productId": "seed-product-0031",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-02-05T02:27:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0069-01",
+    "saleId": "seed-sale-0069",
+    "productId": "seed-product-0073",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-02-05T05:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0069-02",
+    "saleId": "seed-sale-0069",
+    "productId": "seed-product-0060",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-02-05T05:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0069-03",
+    "saleId": "seed-sale-0069",
+    "productId": "seed-product-0019",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-02-05T05:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0070-01",
+    "saleId": "seed-sale-0070",
+    "productId": "seed-product-0156",
+    "qty": 3,
+    "sellPrice": "33000",
+    "subtotal": "99000",
+    "createdAt": "2026-02-06T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0070-02",
+    "saleId": "seed-sale-0070",
+    "productId": "seed-product-0051",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-02-06T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0070-03",
+    "saleId": "seed-sale-0070",
+    "productId": "seed-product-0026",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-02-06T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0070-04",
+    "saleId": "seed-sale-0070",
+    "productId": "seed-product-0022",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-02-06T04:08:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0071-01",
+    "saleId": "seed-sale-0071",
+    "productId": "seed-product-0065",
+    "qty": 1,
+    "sellPrice": "93000",
+    "subtotal": "93000",
+    "createdAt": "2026-02-07T05:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0071-02",
+    "saleId": "seed-sale-0071",
+    "productId": "seed-product-0079",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-02-07T05:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0071-03",
+    "saleId": "seed-sale-0071",
+    "productId": "seed-product-0041",
+    "qty": 2,
+    "sellPrice": "40000",
+    "subtotal": "80000",
+    "createdAt": "2026-02-07T05:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0072-01",
+    "saleId": "seed-sale-0072",
+    "productId": "seed-product-0113",
+    "qty": 5,
+    "sellPrice": "119000",
+    "subtotal": "595000",
+    "createdAt": "2026-02-08T08:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0072-02",
+    "saleId": "seed-sale-0072",
+    "productId": "seed-product-0069",
+    "qty": 6,
+    "sellPrice": "12500",
+    "subtotal": "75000",
+    "createdAt": "2026-02-08T08:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0072-03",
+    "saleId": "seed-sale-0072",
+    "productId": "seed-product-0019",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-02-08T08:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0072-04",
+    "saleId": "seed-sale-0072",
+    "productId": "seed-product-0043",
+    "qty": 3,
+    "sellPrice": "40000",
+    "subtotal": "120000",
+    "createdAt": "2026-02-08T08:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0072-05",
+    "saleId": "seed-sale-0072",
+    "productId": "seed-product-0109",
+    "qty": 4,
+    "sellPrice": "147500",
+    "subtotal": "590000",
+    "createdAt": "2026-02-08T08:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0073-01",
+    "saleId": "seed-sale-0073",
+    "productId": "seed-product-0084",
+    "qty": 9,
+    "sellPrice": "6000",
+    "subtotal": "54000",
+    "createdAt": "2026-02-09T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0073-02",
+    "saleId": "seed-sale-0073",
+    "productId": "seed-product-0083",
+    "qty": 16,
+    "sellPrice": "6000",
+    "subtotal": "96000",
+    "createdAt": "2026-02-09T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0073-03",
+    "saleId": "seed-sale-0073",
+    "productId": "seed-product-0048",
+    "qty": 5,
+    "sellPrice": "11000",
+    "subtotal": "55000",
+    "createdAt": "2026-02-09T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0073-04",
+    "saleId": "seed-sale-0073",
+    "productId": "seed-product-0082",
+    "qty": 11,
+    "sellPrice": "11000",
+    "subtotal": "121000",
+    "createdAt": "2026-02-09T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0074-01",
+    "saleId": "seed-sale-0074",
+    "productId": "seed-product-0074",
+    "qty": 10,
+    "sellPrice": "119000",
+    "subtotal": "1190000",
+    "createdAt": "2026-02-10T06:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0074-02",
+    "saleId": "seed-sale-0074",
+    "productId": "seed-product-0149",
+    "qty": 3,
+    "sellPrice": "152500",
+    "subtotal": "457500",
+    "createdAt": "2026-02-10T06:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0075-01",
+    "saleId": "seed-sale-0075",
+    "productId": "seed-product-0080",
+    "qty": 6,
+    "sellPrice": "11000",
+    "subtotal": "66000",
+    "createdAt": "2026-02-11T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0075-02",
+    "saleId": "seed-sale-0075",
+    "productId": "seed-product-0059",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2026-02-11T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0075-03",
+    "saleId": "seed-sale-0075",
+    "productId": "seed-product-0136",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-02-11T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0075-04",
+    "saleId": "seed-sale-0075",
+    "productId": "seed-product-0082",
+    "qty": 9,
+    "sellPrice": "11000",
+    "subtotal": "99000",
+    "createdAt": "2026-02-11T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0075-05",
+    "saleId": "seed-sale-0075",
+    "productId": "seed-product-0021",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-02-11T04:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0076-01",
+    "saleId": "seed-sale-0076",
+    "productId": "seed-product-0122",
+    "qty": 3,
+    "sellPrice": "11000",
+    "subtotal": "33000",
+    "createdAt": "2026-02-12T01:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.809Z"
+  },
+  {
+    "id": "seed-sale-item-0076-02",
+    "saleId": "seed-sale-0076",
+    "productId": "seed-product-0147",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-02-12T01:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0077-01",
+    "saleId": "seed-sale-0077",
+    "productId": "seed-product-0033",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-02-12T05:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0077-02",
+    "saleId": "seed-sale-0077",
+    "productId": "seed-product-0029",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-02-12T05:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0077-03",
+    "saleId": "seed-sale-0077",
+    "productId": "seed-product-0131",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-02-12T05:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0078-01",
+    "saleId": "seed-sale-0078",
+    "productId": "seed-product-0081",
+    "qty": 3,
+    "sellPrice": "33000",
+    "subtotal": "99000",
+    "createdAt": "2026-02-13T03:55:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0078-02",
+    "saleId": "seed-sale-0078",
+    "productId": "seed-product-0160",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-02-13T03:55:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0078-03",
+    "saleId": "seed-sale-0078",
+    "productId": "seed-product-0030",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-02-13T03:55:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0079-01",
+    "saleId": "seed-sale-0079",
+    "productId": "seed-product-0134",
+    "qty": 17,
+    "sellPrice": "14000",
+    "subtotal": "238000",
+    "createdAt": "2026-02-14T09:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0079-02",
+    "saleId": "seed-sale-0079",
+    "productId": "seed-product-0159",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-02-14T09:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0079-03",
+    "saleId": "seed-sale-0079",
+    "productId": "seed-product-0063",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-02-14T09:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0079-04",
+    "saleId": "seed-sale-0079",
+    "productId": "seed-product-0083",
+    "qty": 13,
+    "sellPrice": "6000",
+    "subtotal": "78000",
+    "createdAt": "2026-02-14T09:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0079-05",
+    "saleId": "seed-sale-0079",
+    "productId": "seed-product-0031",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-02-14T09:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0080-01",
+    "saleId": "seed-sale-0080",
+    "productId": "seed-product-0044",
+    "qty": 7,
+    "sellPrice": "40000",
+    "subtotal": "280000",
+    "createdAt": "2026-02-16T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0080-02",
+    "saleId": "seed-sale-0080",
+    "productId": "seed-product-0041",
+    "qty": 6,
+    "sellPrice": "40000",
+    "subtotal": "240000",
+    "createdAt": "2026-02-16T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0080-03",
+    "saleId": "seed-sale-0080",
+    "productId": "seed-product-0121",
+    "qty": 6,
+    "sellPrice": "19000",
+    "subtotal": "114000",
+    "createdAt": "2026-02-16T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0080-04",
+    "saleId": "seed-sale-0080",
+    "productId": "seed-product-0022",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-02-16T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0080-05",
+    "saleId": "seed-sale-0080",
+    "productId": "seed-product-0037",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-02-16T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0081-01",
+    "saleId": "seed-sale-0081",
+    "productId": "seed-product-0094",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-02-17T06:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0081-02",
+    "saleId": "seed-sale-0081",
+    "productId": "seed-product-0114",
+    "qty": 5,
+    "sellPrice": "119000",
+    "subtotal": "595000",
+    "createdAt": "2026-02-17T06:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0081-03",
+    "saleId": "seed-sale-0081",
+    "productId": "seed-product-0100",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2026-02-17T06:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0081-04",
+    "saleId": "seed-sale-0081",
+    "productId": "seed-product-0026",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-02-17T06:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0081-05",
+    "saleId": "seed-sale-0081",
+    "productId": "seed-product-0127",
+    "qty": 1,
+    "sellPrice": "80000",
+    "subtotal": "80000",
+    "createdAt": "2026-02-17T06:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0082-01",
+    "saleId": "seed-sale-0082",
+    "productId": "seed-product-0097",
+    "qty": 2,
+    "sellPrice": "15500",
+    "subtotal": "31000",
+    "createdAt": "2026-02-18T02:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0082-02",
+    "saleId": "seed-sale-0082",
+    "productId": "seed-product-0042",
+    "qty": 1,
+    "sellPrice": "40000",
+    "subtotal": "40000",
+    "createdAt": "2026-02-18T02:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0082-03",
+    "saleId": "seed-sale-0082",
+    "productId": "seed-product-0017",
+    "qty": 4,
+    "sellPrice": "6000",
+    "subtotal": "24000",
+    "createdAt": "2026-02-18T02:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0082-04",
+    "saleId": "seed-sale-0082",
+    "productId": "seed-product-0101",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-02-18T02:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0082-05",
+    "saleId": "seed-sale-0082",
+    "productId": "seed-product-0102",
+    "qty": 3,
+    "sellPrice": "11000",
+    "subtotal": "33000",
+    "createdAt": "2026-02-18T02:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0083-01",
+    "saleId": "seed-sale-0083",
+    "productId": "seed-product-0062",
+    "qty": 2,
+    "sellPrice": "53000",
+    "subtotal": "106000",
+    "createdAt": "2026-02-18T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0083-02",
+    "saleId": "seed-sale-0083",
+    "productId": "seed-product-0039",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-02-18T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0083-03",
+    "saleId": "seed-sale-0083",
+    "productId": "seed-product-0103",
+    "qty": 3,
+    "sellPrice": "15500",
+    "subtotal": "46500",
+    "createdAt": "2026-02-18T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0083-04",
+    "saleId": "seed-sale-0083",
+    "productId": "seed-product-0042",
+    "qty": 6,
+    "sellPrice": "40000",
+    "subtotal": "240000",
+    "createdAt": "2026-02-18T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0083-05",
+    "saleId": "seed-sale-0083",
+    "productId": "seed-product-0126",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2026-02-18T02:39:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0084-01",
+    "saleId": "seed-sale-0084",
+    "productId": "seed-product-0040",
+    "qty": 7,
+    "sellPrice": "40000",
+    "subtotal": "280000",
+    "createdAt": "2026-02-18T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0084-02",
+    "saleId": "seed-sale-0084",
+    "productId": "seed-product-0074",
+    "qty": 5,
+    "sellPrice": "119000",
+    "subtotal": "595000",
+    "createdAt": "2026-02-18T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0085-01",
+    "saleId": "seed-sale-0085",
+    "productId": "seed-product-0018",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-02-19T03:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0085-02",
+    "saleId": "seed-sale-0085",
+    "productId": "seed-product-0006",
+    "qty": 224,
+    "sellPrice": "1500",
+    "subtotal": "336000",
+    "createdAt": "2026-02-19T03:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0085-03",
+    "saleId": "seed-sale-0085",
+    "productId": "seed-product-0103",
+    "qty": 1,
+    "sellPrice": "15500",
+    "subtotal": "15500",
+    "createdAt": "2026-02-19T03:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0085-04",
+    "saleId": "seed-sale-0085",
+    "productId": "seed-product-0044",
+    "qty": 4,
+    "sellPrice": "40000",
+    "subtotal": "160000",
+    "createdAt": "2026-02-19T03:21:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0086-01",
+    "saleId": "seed-sale-0086",
+    "productId": "seed-product-0038",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-02-19T08:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0086-02",
+    "saleId": "seed-sale-0086",
+    "productId": "seed-product-0096",
+    "qty": 4,
+    "sellPrice": "19000",
+    "subtotal": "76000",
+    "createdAt": "2026-02-19T08:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0086-03",
+    "saleId": "seed-sale-0086",
+    "productId": "seed-product-0057",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-02-19T08:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0086-04",
+    "saleId": "seed-sale-0086",
+    "productId": "seed-product-0131",
+    "qty": 6,
+    "sellPrice": "31000",
+    "subtotal": "186000",
+    "createdAt": "2026-02-19T08:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0086-05",
+    "saleId": "seed-sale-0086",
+    "productId": "seed-product-0107",
+    "qty": 2,
+    "sellPrice": "147500",
+    "subtotal": "295000",
+    "createdAt": "2026-02-19T08:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0087-01",
+    "saleId": "seed-sale-0087",
+    "productId": "seed-product-0031",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-02-21T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0087-02",
+    "saleId": "seed-sale-0087",
+    "productId": "seed-product-0001",
+    "qty": 4,
+    "sellPrice": "89000",
+    "subtotal": "356000",
+    "createdAt": "2026-02-21T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0087-03",
+    "saleId": "seed-sale-0087",
+    "productId": "seed-product-0083",
+    "qty": 8,
+    "sellPrice": "6000",
+    "subtotal": "48000",
+    "createdAt": "2026-02-21T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0087-04",
+    "saleId": "seed-sale-0087",
+    "productId": "seed-product-0073",
+    "qty": 2,
+    "sellPrice": "119000",
+    "subtotal": "238000",
+    "createdAt": "2026-02-21T07:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0088-01",
+    "saleId": "seed-sale-0088",
+    "productId": "seed-product-0114",
+    "qty": 3,
+    "sellPrice": "119000",
+    "subtotal": "357000",
+    "createdAt": "2026-02-27T09:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0088-02",
+    "saleId": "seed-sale-0088",
+    "productId": "seed-product-0037",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-02-27T09:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0088-03",
+    "saleId": "seed-sale-0088",
+    "productId": "seed-product-0105",
+    "qty": 4,
+    "sellPrice": "47000",
+    "subtotal": "188000",
+    "createdAt": "2026-02-27T09:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0088-04",
+    "saleId": "seed-sale-0088",
+    "productId": "seed-product-0103",
+    "qty": 2,
+    "sellPrice": "15500",
+    "subtotal": "31000",
+    "createdAt": "2026-02-27T09:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0089-01",
+    "saleId": "seed-sale-0089",
+    "productId": "seed-product-0084",
+    "qty": 9,
+    "sellPrice": "6000",
+    "subtotal": "54000",
+    "createdAt": "2026-02-28T09:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0089-02",
+    "saleId": "seed-sale-0089",
+    "productId": "seed-product-0134",
+    "qty": 3,
+    "sellPrice": "14000",
+    "subtotal": "42000",
+    "createdAt": "2026-02-28T09:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0090-01",
+    "saleId": "seed-sale-0090",
+    "productId": "seed-product-0036",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-03-01T05:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0090-02",
+    "saleId": "seed-sale-0090",
+    "productId": "seed-product-0087",
+    "qty": 1,
+    "sellPrice": "490000",
+    "subtotal": "490000",
+    "createdAt": "2026-03-01T05:42:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0091-01",
+    "saleId": "seed-sale-0091",
+    "productId": "seed-product-0035",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-02T02:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0091-02",
+    "saleId": "seed-sale-0091",
+    "productId": "seed-product-0053",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-02T02:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0092-01",
+    "saleId": "seed-sale-0092",
+    "productId": "seed-product-0026",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-02T10:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0092-02",
+    "saleId": "seed-sale-0092",
+    "productId": "seed-product-0051",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-03-02T10:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0092-03",
+    "saleId": "seed-sale-0092",
+    "productId": "seed-product-0031",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-02T10:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0092-04",
+    "saleId": "seed-sale-0092",
+    "productId": "seed-product-0058",
+    "qty": 1,
+    "sellPrice": "31000",
+    "subtotal": "31000",
+    "createdAt": "2026-03-02T10:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0093-01",
+    "saleId": "seed-sale-0093",
+    "productId": "seed-product-0121",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-03-03T01:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0093-02",
+    "saleId": "seed-sale-0093",
+    "productId": "seed-product-0103",
+    "qty": 1,
+    "sellPrice": "15500",
+    "subtotal": "15500",
+    "createdAt": "2026-03-03T01:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0093-03",
+    "saleId": "seed-sale-0093",
+    "productId": "seed-product-0007",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-03-03T01:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0094-01",
+    "saleId": "seed-sale-0094",
+    "productId": "seed-product-0015",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-03-03T06:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0094-02",
+    "saleId": "seed-sale-0094",
+    "productId": "seed-product-0114",
+    "qty": 3,
+    "sellPrice": "119000",
+    "subtotal": "357000",
+    "createdAt": "2026-03-03T06:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0094-03",
+    "saleId": "seed-sale-0094",
+    "productId": "seed-product-0018",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-03-03T06:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0094-04",
+    "saleId": "seed-sale-0094",
+    "productId": "seed-product-0059",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-03-03T06:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0095-01",
+    "saleId": "seed-sale-0095",
+    "productId": "seed-product-0063",
+    "qty": 1,
+    "sellPrice": "93000",
+    "subtotal": "93000",
+    "createdAt": "2026-03-04T02:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0095-02",
+    "saleId": "seed-sale-0095",
+    "productId": "seed-product-0013",
+    "qty": 1,
+    "sellPrice": "6000",
+    "subtotal": "6000",
+    "createdAt": "2026-03-04T02:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0095-03",
+    "saleId": "seed-sale-0095",
+    "productId": "seed-product-0129",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-03-04T02:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0095-04",
+    "saleId": "seed-sale-0095",
+    "productId": "seed-product-0026",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-03-04T02:44:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0096-01",
+    "saleId": "seed-sale-0096",
+    "productId": "seed-product-0099",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-03-04T03:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0096-02",
+    "saleId": "seed-sale-0096",
+    "productId": "seed-product-0082",
+    "qty": 10,
+    "sellPrice": "11000",
+    "subtotal": "110000",
+    "createdAt": "2026-03-04T03:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0096-03",
+    "saleId": "seed-sale-0096",
+    "productId": "seed-product-0009",
+    "qty": 5,
+    "sellPrice": "106000",
+    "subtotal": "530000",
+    "createdAt": "2026-03-04T03:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0096-04",
+    "saleId": "seed-sale-0096",
+    "productId": "seed-product-0019",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-03-04T03:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0096-05",
+    "saleId": "seed-sale-0096",
+    "productId": "seed-product-0157",
+    "qty": 2,
+    "sellPrice": "33000",
+    "subtotal": "66000",
+    "createdAt": "2026-03-04T03:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0097-01",
+    "saleId": "seed-sale-0097",
+    "productId": "seed-product-0010",
+    "qty": 7,
+    "sellPrice": "106000",
+    "subtotal": "742000",
+    "createdAt": "2026-03-04T07:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0097-02",
+    "saleId": "seed-sale-0097",
+    "productId": "seed-product-0060",
+    "qty": 4,
+    "sellPrice": "31000",
+    "subtotal": "124000",
+    "createdAt": "2026-03-04T07:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0097-03",
+    "saleId": "seed-sale-0097",
+    "productId": "seed-product-0019",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-03-04T07:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0097-04",
+    "saleId": "seed-sale-0097",
+    "productId": "seed-product-0011",
+    "qty": 5,
+    "sellPrice": "106000",
+    "subtotal": "530000",
+    "createdAt": "2026-03-04T07:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0097-05",
+    "saleId": "seed-sale-0097",
+    "productId": "seed-product-0021",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-03-04T07:11:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0098-01",
+    "saleId": "seed-sale-0098",
+    "productId": "seed-product-0013",
+    "qty": 8,
+    "sellPrice": "6000",
+    "subtotal": "48000",
+    "createdAt": "2026-03-05T07:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0098-02",
+    "saleId": "seed-sale-0098",
+    "productId": "seed-product-0131",
+    "qty": 18,
+    "sellPrice": "31000",
+    "subtotal": "558000",
+    "createdAt": "2026-03-05T07:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0098-03",
+    "saleId": "seed-sale-0098",
+    "productId": "seed-product-0014",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-03-05T07:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0098-04",
+    "saleId": "seed-sale-0098",
+    "productId": "seed-product-0019",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-05T07:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0099-01",
+    "saleId": "seed-sale-0099",
+    "productId": "seed-product-0003",
+    "qty": 1,
+    "sellPrice": "427500",
+    "subtotal": "427500",
+    "createdAt": "2026-03-07T02:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0099-02",
+    "saleId": "seed-sale-0099",
+    "productId": "seed-product-0044",
+    "qty": 2,
+    "sellPrice": "40000",
+    "subtotal": "80000",
+    "createdAt": "2026-03-07T02:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0099-03",
+    "saleId": "seed-sale-0099",
+    "productId": "seed-product-0059",
+    "qty": 4,
+    "sellPrice": "31000",
+    "subtotal": "124000",
+    "createdAt": "2026-03-07T02:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0100-01",
+    "saleId": "seed-sale-0100",
+    "productId": "seed-product-0043",
+    "qty": 3,
+    "sellPrice": "40000",
+    "subtotal": "120000",
+    "createdAt": "2026-03-08T03:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0100-02",
+    "saleId": "seed-sale-0100",
+    "productId": "seed-product-0113",
+    "qty": 2,
+    "sellPrice": "119000",
+    "subtotal": "238000",
+    "createdAt": "2026-03-08T03:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0100-03",
+    "saleId": "seed-sale-0100",
+    "productId": "seed-product-0044",
+    "qty": 4,
+    "sellPrice": "40000",
+    "subtotal": "160000",
+    "createdAt": "2026-03-08T03:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0100-04",
+    "saleId": "seed-sale-0100",
+    "productId": "seed-product-0050",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-03-08T03:15:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0101-01",
+    "saleId": "seed-sale-0101",
+    "productId": "seed-product-0035",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-09T02:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0101-02",
+    "saleId": "seed-sale-0101",
+    "productId": "seed-product-0160",
+    "qty": 1,
+    "sellPrice": "66000",
+    "subtotal": "66000",
+    "createdAt": "2026-03-09T02:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0101-03",
+    "saleId": "seed-sale-0101",
+    "productId": "seed-product-0006",
+    "qty": 184,
+    "sellPrice": "1500",
+    "subtotal": "276000",
+    "createdAt": "2026-03-09T02:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0102-01",
+    "saleId": "seed-sale-0102",
+    "productId": "seed-product-0115",
+    "qty": 2,
+    "sellPrice": "119000",
+    "subtotal": "238000",
+    "createdAt": "2026-03-09T10:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0102-02",
+    "saleId": "seed-sale-0102",
+    "productId": "seed-product-0055",
+    "qty": 9,
+    "sellPrice": "31000",
+    "subtotal": "279000",
+    "createdAt": "2026-03-09T10:32:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0103-01",
+    "saleId": "seed-sale-0103",
+    "productId": "seed-product-0059",
+    "qty": 3,
+    "sellPrice": "31000",
+    "subtotal": "93000",
+    "createdAt": "2026-03-10T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0103-02",
+    "saleId": "seed-sale-0103",
+    "productId": "seed-product-0037",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-10T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0104-01",
+    "saleId": "seed-sale-0104",
+    "productId": "seed-product-0020",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-03-10T08:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0104-02",
+    "saleId": "seed-sale-0104",
+    "productId": "seed-product-0046",
+    "qty": 5,
+    "sellPrice": "23500",
+    "subtotal": "117500",
+    "createdAt": "2026-03-10T08:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0104-03",
+    "saleId": "seed-sale-0104",
+    "productId": "seed-product-0083",
+    "qty": 10,
+    "sellPrice": "6000",
+    "subtotal": "60000",
+    "createdAt": "2026-03-10T08:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0105-01",
+    "saleId": "seed-sale-0105",
+    "productId": "seed-product-0054",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-03-11T09:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0105-02",
+    "saleId": "seed-sale-0105",
+    "productId": "seed-product-0103",
+    "qty": 1,
+    "sellPrice": "15500",
+    "subtotal": "15500",
+    "createdAt": "2026-03-11T09:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0106-01",
+    "saleId": "seed-sale-0106",
+    "productId": "seed-product-0031",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-12T03:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0106-02",
+    "saleId": "seed-sale-0106",
+    "productId": "seed-product-0008",
+    "qty": 6,
+    "sellPrice": "106000",
+    "subtotal": "636000",
+    "createdAt": "2026-03-12T03:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0106-03",
+    "saleId": "seed-sale-0106",
+    "productId": "seed-product-0056",
+    "qty": 8,
+    "sellPrice": "31000",
+    "subtotal": "248000",
+    "createdAt": "2026-03-12T03:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0106-04",
+    "saleId": "seed-sale-0106",
+    "productId": "seed-product-0094",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-03-12T03:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0107-01",
+    "saleId": "seed-sale-0107",
+    "productId": "seed-product-0026",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-13T04:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0107-02",
+    "saleId": "seed-sale-0107",
+    "productId": "seed-product-0083",
+    "qty": 3,
+    "sellPrice": "6000",
+    "subtotal": "18000",
+    "createdAt": "2026-03-13T04:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0108-01",
+    "saleId": "seed-sale-0108",
+    "productId": "seed-product-0145",
+    "qty": 1,
+    "sellPrice": "93000",
+    "subtotal": "93000",
+    "createdAt": "2026-03-13T10:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0108-02",
+    "saleId": "seed-sale-0108",
+    "productId": "seed-product-0023",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-03-13T10:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0108-03",
+    "saleId": "seed-sale-0108",
+    "productId": "seed-product-0131",
+    "qty": 4,
+    "sellPrice": "31000",
+    "subtotal": "124000",
+    "createdAt": "2026-03-13T10:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0108-04",
+    "saleId": "seed-sale-0108",
+    "productId": "seed-product-0015",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-03-13T10:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0108-05",
+    "saleId": "seed-sale-0108",
+    "productId": "seed-product-0068",
+    "qty": 3,
+    "sellPrice": "12500",
+    "subtotal": "37500",
+    "createdAt": "2026-03-13T10:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0109-01",
+    "saleId": "seed-sale-0109",
+    "productId": "seed-product-0028",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-14T01:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0109-02",
+    "saleId": "seed-sale-0109",
+    "productId": "seed-product-0018",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-03-14T01:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0110-01",
+    "saleId": "seed-sale-0110",
+    "productId": "seed-product-0114",
+    "qty": 1,
+    "sellPrice": "119000",
+    "subtotal": "119000",
+    "createdAt": "2026-03-14T01:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0110-02",
+    "saleId": "seed-sale-0110",
+    "productId": "seed-product-0016",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-03-14T01:40:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0111-01",
+    "saleId": "seed-sale-0111",
+    "productId": "seed-product-0084",
+    "qty": 19,
+    "sellPrice": "6000",
+    "subtotal": "114000",
+    "createdAt": "2026-03-15T03:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0111-02",
+    "saleId": "seed-sale-0111",
+    "productId": "seed-product-0096",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-03-15T03:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0111-03",
+    "saleId": "seed-sale-0111",
+    "productId": "seed-product-0009",
+    "qty": 6,
+    "sellPrice": "106000",
+    "subtotal": "636000",
+    "createdAt": "2026-03-15T03:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0111-04",
+    "saleId": "seed-sale-0111",
+    "productId": "seed-product-0045",
+    "qty": 7,
+    "sellPrice": "23500",
+    "subtotal": "164500",
+    "createdAt": "2026-03-15T03:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0111-05",
+    "saleId": "seed-sale-0111",
+    "productId": "seed-product-0039",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-03-15T03:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0112-01",
+    "saleId": "seed-sale-0112",
+    "productId": "seed-product-0007",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-03-15T08:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0112-02",
+    "saleId": "seed-sale-0112",
+    "productId": "seed-product-0071",
+    "qty": 9,
+    "sellPrice": "115000",
+    "subtotal": "1035000",
+    "createdAt": "2026-03-15T08:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0112-03",
+    "saleId": "seed-sale-0112",
+    "productId": "seed-product-0045",
+    "qty": 2,
+    "sellPrice": "23500",
+    "subtotal": "47000",
+    "createdAt": "2026-03-15T08:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0113-01",
+    "saleId": "seed-sale-0113",
+    "productId": "seed-product-0010",
+    "qty": 7,
+    "sellPrice": "106000",
+    "subtotal": "742000",
+    "createdAt": "2026-03-16T06:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0113-02",
+    "saleId": "seed-sale-0113",
+    "productId": "seed-product-0080",
+    "qty": 5,
+    "sellPrice": "11000",
+    "subtotal": "55000",
+    "createdAt": "2026-03-16T06:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0113-03",
+    "saleId": "seed-sale-0113",
+    "productId": "seed-product-0069",
+    "qty": 1,
+    "sellPrice": "12500",
+    "subtotal": "12500",
+    "createdAt": "2026-03-16T06:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0113-04",
+    "saleId": "seed-sale-0113",
+    "productId": "seed-product-0122",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-03-16T06:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0113-05",
+    "saleId": "seed-sale-0113",
+    "productId": "seed-product-0058",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-03-16T06:04:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0114-01",
+    "saleId": "seed-sale-0114",
+    "productId": "seed-product-0045",
+    "qty": 4,
+    "sellPrice": "23500",
+    "subtotal": "94000",
+    "createdAt": "2026-03-17T08:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0114-02",
+    "saleId": "seed-sale-0114",
+    "productId": "seed-product-0041",
+    "qty": 6,
+    "sellPrice": "40000",
+    "subtotal": "240000",
+    "createdAt": "2026-03-17T08:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0114-03",
+    "saleId": "seed-sale-0114",
+    "productId": "seed-product-0114",
+    "qty": 1,
+    "sellPrice": "119000",
+    "subtotal": "119000",
+    "createdAt": "2026-03-17T08:36:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0115-01",
+    "saleId": "seed-sale-0115",
+    "productId": "seed-product-0029",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-18T04:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0115-02",
+    "saleId": "seed-sale-0115",
+    "productId": "seed-product-0021",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-03-18T04:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0115-03",
+    "saleId": "seed-sale-0115",
+    "productId": "seed-product-0103",
+    "qty": 3,
+    "sellPrice": "15500",
+    "subtotal": "46500",
+    "createdAt": "2026-03-18T04:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0116-01",
+    "saleId": "seed-sale-0116",
+    "productId": "seed-product-0108",
+    "qty": 1,
+    "sellPrice": "147500",
+    "subtotal": "147500",
+    "createdAt": "2026-03-19T01:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0116-02",
+    "saleId": "seed-sale-0116",
+    "productId": "seed-product-0150",
+    "qty": 2,
+    "sellPrice": "245000",
+    "subtotal": "490000",
+    "createdAt": "2026-03-19T01:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0116-03",
+    "saleId": "seed-sale-0116",
+    "productId": "seed-product-0125",
+    "qty": 9,
+    "sellPrice": "9500",
+    "subtotal": "85500",
+    "createdAt": "2026-03-19T01:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0116-04",
+    "saleId": "seed-sale-0116",
+    "productId": "seed-product-0001",
+    "qty": 2,
+    "sellPrice": "89000",
+    "subtotal": "178000",
+    "createdAt": "2026-03-19T01:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0117-01",
+    "saleId": "seed-sale-0117",
+    "productId": "seed-product-0036",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-03-21T08:33:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0117-02",
+    "saleId": "seed-sale-0117",
+    "productId": "seed-product-0136",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-03-21T08:33:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0118-01",
+    "saleId": "seed-sale-0118",
+    "productId": "seed-product-0020",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-23T03:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0118-02",
+    "saleId": "seed-sale-0118",
+    "productId": "seed-product-0093",
+    "qty": 1,
+    "sellPrice": "93000",
+    "subtotal": "93000",
+    "createdAt": "2026-03-23T03:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0118-03",
+    "saleId": "seed-sale-0118",
+    "productId": "seed-product-0154",
+    "qty": 2,
+    "sellPrice": "945000",
+    "subtotal": "1890000",
+    "createdAt": "2026-03-23T03:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0119-01",
+    "saleId": "seed-sale-0119",
+    "productId": "seed-product-0020",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-03-23T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0119-02",
+    "saleId": "seed-sale-0119",
+    "productId": "seed-product-0017",
+    "qty": 3,
+    "sellPrice": "6000",
+    "subtotal": "18000",
+    "createdAt": "2026-03-23T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0119-03",
+    "saleId": "seed-sale-0119",
+    "productId": "seed-product-0038",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-23T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0119-04",
+    "saleId": "seed-sale-0119",
+    "productId": "seed-product-0073",
+    "qty": 11,
+    "sellPrice": "119000",
+    "subtotal": "1309000",
+    "createdAt": "2026-03-23T04:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0120-01",
+    "saleId": "seed-sale-0120",
+    "productId": "seed-product-0157",
+    "qty": 5,
+    "sellPrice": "33000",
+    "subtotal": "165000",
+    "createdAt": "2026-03-23T05:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0120-02",
+    "saleId": "seed-sale-0120",
+    "productId": "seed-product-0035",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-03-23T05:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0121-01",
+    "saleId": "seed-sale-0121",
+    "productId": "seed-product-0006",
+    "qty": 292,
+    "sellPrice": "1500",
+    "subtotal": "438000",
+    "createdAt": "2026-03-23T05:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0121-02",
+    "saleId": "seed-sale-0121",
+    "productId": "seed-product-0157",
+    "qty": 4,
+    "sellPrice": "33000",
+    "subtotal": "132000",
+    "createdAt": "2026-03-23T05:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0121-03",
+    "saleId": "seed-sale-0121",
+    "productId": "seed-product-0103",
+    "qty": 3,
+    "sellPrice": "15500",
+    "subtotal": "46500",
+    "createdAt": "2026-03-23T05:05:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0122-01",
+    "saleId": "seed-sale-0122",
+    "productId": "seed-product-0026",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-03-24T03:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0122-02",
+    "saleId": "seed-sale-0122",
+    "productId": "seed-product-0036",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-03-24T03:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0122-03",
+    "saleId": "seed-sale-0122",
+    "productId": "seed-product-0028",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-03-24T03:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0122-04",
+    "saleId": "seed-sale-0122",
+    "productId": "seed-product-0095",
+    "qty": 1,
+    "sellPrice": "172500",
+    "subtotal": "172500",
+    "createdAt": "2026-03-24T03:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0123-01",
+    "saleId": "seed-sale-0123",
+    "productId": "seed-product-0073",
+    "qty": 10,
+    "sellPrice": "119000",
+    "subtotal": "1190000",
+    "createdAt": "2026-03-24T09:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0123-02",
+    "saleId": "seed-sale-0123",
+    "productId": "seed-product-0076",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-03-24T09:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0123-03",
+    "saleId": "seed-sale-0123",
+    "productId": "seed-product-0113",
+    "qty": 3,
+    "sellPrice": "119000",
+    "subtotal": "357000",
+    "createdAt": "2026-03-24T09:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0124-01",
+    "saleId": "seed-sale-0124",
+    "productId": "seed-product-0037",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-25T05:13:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0124-02",
+    "saleId": "seed-sale-0124",
+    "productId": "seed-product-0097",
+    "qty": 1,
+    "sellPrice": "15500",
+    "subtotal": "15500",
+    "createdAt": "2026-03-25T05:13:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0124-03",
+    "saleId": "seed-sale-0124",
+    "productId": "seed-product-0014",
+    "qty": 8,
+    "sellPrice": "6000",
+    "subtotal": "48000",
+    "createdAt": "2026-03-25T05:13:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0125-01",
+    "saleId": "seed-sale-0125",
+    "productId": "seed-product-0031",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-03-25T06:31:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0125-02",
+    "saleId": "seed-sale-0125",
+    "productId": "seed-product-0138",
+    "qty": 5,
+    "sellPrice": "11000",
+    "subtotal": "55000",
+    "createdAt": "2026-03-25T06:31:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0126-01",
+    "saleId": "seed-sale-0126",
+    "productId": "seed-product-0077",
+    "qty": 5,
+    "sellPrice": "31000",
+    "subtotal": "155000",
+    "createdAt": "2026-03-28T10:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0126-02",
+    "saleId": "seed-sale-0126",
+    "productId": "seed-product-0020",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-03-28T10:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0126-03",
+    "saleId": "seed-sale-0126",
+    "productId": "seed-product-0060",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-03-28T10:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0126-04",
+    "saleId": "seed-sale-0126",
+    "productId": "seed-product-0026",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-03-28T10:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0126-05",
+    "saleId": "seed-sale-0126",
+    "productId": "seed-product-0062",
+    "qty": 1,
+    "sellPrice": "53000",
+    "subtotal": "53000",
+    "createdAt": "2026-03-28T10:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0127-01",
+    "saleId": "seed-sale-0127",
+    "productId": "seed-product-0006",
+    "qty": 227,
+    "sellPrice": "1500",
+    "subtotal": "340500",
+    "createdAt": "2026-03-29T01:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0127-02",
+    "saleId": "seed-sale-0127",
+    "productId": "seed-product-0119",
+    "qty": 3,
+    "sellPrice": "66000",
+    "subtotal": "198000",
+    "createdAt": "2026-03-29T01:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0128-01",
+    "saleId": "seed-sale-0128",
+    "productId": "seed-product-0040",
+    "qty": 3,
+    "sellPrice": "40000",
+    "subtotal": "120000",
+    "createdAt": "2026-03-29T03:45:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0128-02",
+    "saleId": "seed-sale-0128",
+    "productId": "seed-product-0122",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2026-03-29T03:45:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0128-03",
+    "saleId": "seed-sale-0128",
+    "productId": "seed-product-0113",
+    "qty": 5,
+    "sellPrice": "119000",
+    "subtotal": "595000",
+    "createdAt": "2026-03-29T03:45:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0129-01",
+    "saleId": "seed-sale-0129",
+    "productId": "seed-product-0026",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-29T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0129-02",
+    "saleId": "seed-sale-0129",
+    "productId": "seed-product-0084",
+    "qty": 19,
+    "sellPrice": "6000",
+    "subtotal": "114000",
+    "createdAt": "2026-03-29T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0129-03",
+    "saleId": "seed-sale-0129",
+    "productId": "seed-product-0001",
+    "qty": 11,
+    "sellPrice": "89000",
+    "subtotal": "979000",
+    "createdAt": "2026-03-29T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0129-04",
+    "saleId": "seed-sale-0129",
+    "productId": "seed-product-0007",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-03-29T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0129-05",
+    "saleId": "seed-sale-0129",
+    "productId": "seed-product-0013",
+    "qty": 4,
+    "sellPrice": "6000",
+    "subtotal": "24000",
+    "createdAt": "2026-03-29T06:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0130-01",
+    "saleId": "seed-sale-0130",
+    "productId": "seed-product-0060",
+    "qty": 4,
+    "sellPrice": "31000",
+    "subtotal": "124000",
+    "createdAt": "2026-03-31T09:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0130-02",
+    "saleId": "seed-sale-0130",
+    "productId": "seed-product-0083",
+    "qty": 8,
+    "sellPrice": "6000",
+    "subtotal": "48000",
+    "createdAt": "2026-03-31T09:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0130-03",
+    "saleId": "seed-sale-0130",
+    "productId": "seed-product-0039",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-03-31T09:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0130-04",
+    "saleId": "seed-sale-0130",
+    "productId": "seed-product-0053",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-03-31T09:12:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0131-01",
+    "saleId": "seed-sale-0131",
+    "productId": "seed-product-0038",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-04-02T02:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0131-02",
+    "saleId": "seed-sale-0131",
+    "productId": "seed-product-0017",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-04-02T02:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0132-01",
+    "saleId": "seed-sale-0132",
+    "productId": "seed-product-0055",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-04-02T07:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0132-02",
+    "saleId": "seed-sale-0132",
+    "productId": "seed-product-0038",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-04-02T07:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0132-03",
+    "saleId": "seed-sale-0132",
+    "productId": "seed-product-0015",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-04-02T07:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0133-01",
+    "saleId": "seed-sale-0133",
+    "productId": "seed-product-0017",
+    "qty": 2,
+    "sellPrice": "6000",
+    "subtotal": "12000",
+    "createdAt": "2026-04-03T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0133-02",
+    "saleId": "seed-sale-0133",
+    "productId": "seed-product-0076",
+    "qty": 7,
+    "sellPrice": "119000",
+    "subtotal": "833000",
+    "createdAt": "2026-04-03T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0134-01",
+    "saleId": "seed-sale-0134",
+    "productId": "seed-product-0023",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-04-03T04:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0134-02",
+    "saleId": "seed-sale-0134",
+    "productId": "seed-product-0122",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-04-03T04:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0134-03",
+    "saleId": "seed-sale-0134",
+    "productId": "seed-product-0054",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-04-03T04:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0134-04",
+    "saleId": "seed-sale-0134",
+    "productId": "seed-product-0090",
+    "qty": 2,
+    "sellPrice": "33000",
+    "subtotal": "66000",
+    "createdAt": "2026-04-03T04:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0135-01",
+    "saleId": "seed-sale-0135",
+    "productId": "seed-product-0006",
+    "qty": 167,
+    "sellPrice": "1500",
+    "subtotal": "250500",
+    "createdAt": "2026-04-03T05:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0135-02",
+    "saleId": "seed-sale-0135",
+    "productId": "seed-product-0148",
+    "qty": 2,
+    "sellPrice": "132000",
+    "subtotal": "264000",
+    "createdAt": "2026-04-03T05:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0136-01",
+    "saleId": "seed-sale-0136",
+    "productId": "seed-product-0025",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-04-03T08:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0136-02",
+    "saleId": "seed-sale-0136",
+    "productId": "seed-product-0142",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-04-03T08:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0136-03",
+    "saleId": "seed-sale-0136",
+    "productId": "seed-product-0069",
+    "qty": 7,
+    "sellPrice": "12500",
+    "subtotal": "87500",
+    "createdAt": "2026-04-03T08:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0136-04",
+    "saleId": "seed-sale-0136",
+    "productId": "seed-product-0039",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-04-03T08:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0137-01",
+    "saleId": "seed-sale-0137",
+    "productId": "seed-product-0050",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2026-04-05T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0137-02",
+    "saleId": "seed-sale-0137",
+    "productId": "seed-product-0131",
+    "qty": 12,
+    "sellPrice": "31000",
+    "subtotal": "372000",
+    "createdAt": "2026-04-05T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0137-03",
+    "saleId": "seed-sale-0137",
+    "productId": "seed-product-0155",
+    "qty": 1,
+    "sellPrice": "33000",
+    "subtotal": "33000",
+    "createdAt": "2026-04-05T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0137-04",
+    "saleId": "seed-sale-0137",
+    "productId": "seed-product-0042",
+    "qty": 8,
+    "sellPrice": "40000",
+    "subtotal": "320000",
+    "createdAt": "2026-04-05T04:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0138-01",
+    "saleId": "seed-sale-0138",
+    "productId": "seed-product-0134",
+    "qty": 7,
+    "sellPrice": "14000",
+    "subtotal": "98000",
+    "createdAt": "2026-04-06T05:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0138-02",
+    "saleId": "seed-sale-0138",
+    "productId": "seed-product-0114",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-04-06T05:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0138-03",
+    "saleId": "seed-sale-0138",
+    "productId": "seed-product-0149",
+    "qty": 3,
+    "sellPrice": "152500",
+    "subtotal": "457500",
+    "createdAt": "2026-04-06T05:06:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0139-01",
+    "saleId": "seed-sale-0139",
+    "productId": "seed-product-0038",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-04-06T06:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0139-02",
+    "saleId": "seed-sale-0139",
+    "productId": "seed-product-0016",
+    "qty": 8,
+    "sellPrice": "6000",
+    "subtotal": "48000",
+    "createdAt": "2026-04-06T06:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0139-03",
+    "saleId": "seed-sale-0139",
+    "productId": "seed-product-0134",
+    "qty": 15,
+    "sellPrice": "14000",
+    "subtotal": "210000",
+    "createdAt": "2026-04-06T06:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0139-04",
+    "saleId": "seed-sale-0139",
+    "productId": "seed-product-0105",
+    "qty": 2,
+    "sellPrice": "47000",
+    "subtotal": "94000",
+    "createdAt": "2026-04-06T06:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0139-05",
+    "saleId": "seed-sale-0139",
+    "productId": "seed-product-0136",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-04-06T06:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0140-01",
+    "saleId": "seed-sale-0140",
+    "productId": "seed-product-0047",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-04-06T06:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0140-02",
+    "saleId": "seed-sale-0140",
+    "productId": "seed-product-0001",
+    "qty": 9,
+    "sellPrice": "89000",
+    "subtotal": "801000",
+    "createdAt": "2026-04-06T06:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0140-03",
+    "saleId": "seed-sale-0140",
+    "productId": "seed-product-0043",
+    "qty": 2,
+    "sellPrice": "40000",
+    "subtotal": "80000",
+    "createdAt": "2026-04-06T06:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0140-04",
+    "saleId": "seed-sale-0140",
+    "productId": "seed-product-0074",
+    "qty": 11,
+    "sellPrice": "119000",
+    "subtotal": "1309000",
+    "createdAt": "2026-04-06T06:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0140-05",
+    "saleId": "seed-sale-0140",
+    "productId": "seed-product-0038",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-06T06:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0141-01",
+    "saleId": "seed-sale-0141",
+    "productId": "seed-product-0071",
+    "qty": 2,
+    "sellPrice": "115000",
+    "subtotal": "230000",
+    "createdAt": "2026-04-07T06:52:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0141-02",
+    "saleId": "seed-sale-0141",
+    "productId": "seed-product-0055",
+    "qty": 8,
+    "sellPrice": "31000",
+    "subtotal": "248000",
+    "createdAt": "2026-04-07T06:52:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0141-03",
+    "saleId": "seed-sale-0141",
+    "productId": "seed-product-0074",
+    "qty": 9,
+    "sellPrice": "119000",
+    "subtotal": "1071000",
+    "createdAt": "2026-04-07T06:52:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0142-01",
+    "saleId": "seed-sale-0142",
+    "productId": "seed-product-0113",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-04-07T07:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0142-02",
+    "saleId": "seed-sale-0142",
+    "productId": "seed-product-0149",
+    "qty": 1,
+    "sellPrice": "152500",
+    "subtotal": "152500",
+    "createdAt": "2026-04-07T07:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0142-03",
+    "saleId": "seed-sale-0142",
+    "productId": "seed-product-0092",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-04-07T07:07:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0143-01",
+    "saleId": "seed-sale-0143",
+    "productId": "seed-product-0130",
+    "qty": 1,
+    "sellPrice": "66000",
+    "subtotal": "66000",
+    "createdAt": "2026-04-09T06:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0143-02",
+    "saleId": "seed-sale-0143",
+    "productId": "seed-product-0006",
+    "qty": 175,
+    "sellPrice": "1500",
+    "subtotal": "262500",
+    "createdAt": "2026-04-09T06:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0143-03",
+    "saleId": "seed-sale-0143",
+    "productId": "seed-product-0086",
+    "qty": 1,
+    "sellPrice": "490000",
+    "subtotal": "490000",
+    "createdAt": "2026-04-09T06:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0143-04",
+    "saleId": "seed-sale-0143",
+    "productId": "seed-product-0125",
+    "qty": 14,
+    "sellPrice": "9500",
+    "subtotal": "133000",
+    "createdAt": "2026-04-09T06:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0143-05",
+    "saleId": "seed-sale-0143",
+    "productId": "seed-product-0007",
+    "qty": 5,
+    "sellPrice": "93000",
+    "subtotal": "465000",
+    "createdAt": "2026-04-09T06:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0144-01",
+    "saleId": "seed-sale-0144",
+    "productId": "seed-product-0134",
+    "qty": 8,
+    "sellPrice": "14000",
+    "subtotal": "112000",
+    "createdAt": "2026-04-12T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0144-02",
+    "saleId": "seed-sale-0144",
+    "productId": "seed-product-0041",
+    "qty": 1,
+    "sellPrice": "40000",
+    "subtotal": "40000",
+    "createdAt": "2026-04-12T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0144-03",
+    "saleId": "seed-sale-0144",
+    "productId": "seed-product-0035",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-12T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0144-04",
+    "saleId": "seed-sale-0144",
+    "productId": "seed-product-0038",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-12T01:17:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0145-01",
+    "saleId": "seed-sale-0145",
+    "productId": "seed-product-0006",
+    "qty": 169,
+    "sellPrice": "1500",
+    "subtotal": "253500",
+    "createdAt": "2026-04-13T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0145-02",
+    "saleId": "seed-sale-0145",
+    "productId": "seed-product-0134",
+    "qty": 14,
+    "sellPrice": "14000",
+    "subtotal": "196000",
+    "createdAt": "2026-04-13T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0145-03",
+    "saleId": "seed-sale-0145",
+    "productId": "seed-product-0019",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-04-13T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0145-04",
+    "saleId": "seed-sale-0145",
+    "productId": "seed-product-0057",
+    "qty": 3,
+    "sellPrice": "31000",
+    "subtotal": "93000",
+    "createdAt": "2026-04-13T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0145-05",
+    "saleId": "seed-sale-0145",
+    "productId": "seed-product-0004",
+    "qty": 2,
+    "sellPrice": "512500",
+    "subtotal": "1025000",
+    "createdAt": "2026-04-13T04:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0146-01",
+    "saleId": "seed-sale-0146",
+    "productId": "seed-product-0028",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-04-13T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0146-02",
+    "saleId": "seed-sale-0146",
+    "productId": "seed-product-0044",
+    "qty": 1,
+    "sellPrice": "40000",
+    "subtotal": "40000",
+    "createdAt": "2026-04-13T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0146-03",
+    "saleId": "seed-sale-0146",
+    "productId": "seed-product-0056",
+    "qty": 13,
+    "sellPrice": "31000",
+    "subtotal": "403000",
+    "createdAt": "2026-04-13T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0146-04",
+    "saleId": "seed-sale-0146",
+    "productId": "seed-product-0016",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-04-13T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0146-05",
+    "saleId": "seed-sale-0146",
+    "productId": "seed-product-0018",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-13T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0147-01",
+    "saleId": "seed-sale-0147",
+    "productId": "seed-product-0074",
+    "qty": 11,
+    "sellPrice": "119000",
+    "subtotal": "1309000",
+    "createdAt": "2026-04-14T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0147-02",
+    "saleId": "seed-sale-0147",
+    "productId": "seed-product-0080",
+    "qty": 8,
+    "sellPrice": "11000",
+    "subtotal": "88000",
+    "createdAt": "2026-04-14T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0147-03",
+    "saleId": "seed-sale-0147",
+    "productId": "seed-product-0160",
+    "qty": 1,
+    "sellPrice": "66000",
+    "subtotal": "66000",
+    "createdAt": "2026-04-14T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.885Z"
+  },
+  {
+    "id": "seed-sale-item-0147-04",
+    "saleId": "seed-sale-0147",
+    "productId": "seed-product-0082",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-04-14T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0147-05",
+    "saleId": "seed-sale-0147",
+    "productId": "seed-product-0150",
+    "qty": 1,
+    "sellPrice": "245000",
+    "subtotal": "245000",
+    "createdAt": "2026-04-14T01:46:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0148-01",
+    "saleId": "seed-sale-0148",
+    "productId": "seed-product-0003",
+    "qty": 2,
+    "sellPrice": "427500",
+    "subtotal": "855000",
+    "createdAt": "2026-04-14T05:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0148-02",
+    "saleId": "seed-sale-0148",
+    "productId": "seed-product-0121",
+    "qty": 4,
+    "sellPrice": "19000",
+    "subtotal": "76000",
+    "createdAt": "2026-04-14T05:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0149-01",
+    "saleId": "seed-sale-0149",
+    "productId": "seed-product-0096",
+    "qty": 4,
+    "sellPrice": "19000",
+    "subtotal": "76000",
+    "createdAt": "2026-04-15T02:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0149-02",
+    "saleId": "seed-sale-0149",
+    "productId": "seed-product-0114",
+    "qty": 1,
+    "sellPrice": "119000",
+    "subtotal": "119000",
+    "createdAt": "2026-04-15T02:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0149-03",
+    "saleId": "seed-sale-0149",
+    "productId": "seed-product-0057",
+    "qty": 2,
+    "sellPrice": "31000",
+    "subtotal": "62000",
+    "createdAt": "2026-04-15T02:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0149-04",
+    "saleId": "seed-sale-0149",
+    "productId": "seed-product-0103",
+    "qty": 2,
+    "sellPrice": "15500",
+    "subtotal": "31000",
+    "createdAt": "2026-04-15T02:00:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0150-01",
+    "saleId": "seed-sale-0150",
+    "productId": "seed-product-0030",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-16T01:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0150-02",
+    "saleId": "seed-sale-0150",
+    "productId": "seed-product-0119",
+    "qty": 1,
+    "sellPrice": "66000",
+    "subtotal": "66000",
+    "createdAt": "2026-04-16T01:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0150-03",
+    "saleId": "seed-sale-0150",
+    "productId": "seed-product-0013",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-04-16T01:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0150-04",
+    "saleId": "seed-sale-0150",
+    "productId": "seed-product-0122",
+    "qty": 1,
+    "sellPrice": "11000",
+    "subtotal": "11000",
+    "createdAt": "2026-04-16T01:24:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0151-01",
+    "saleId": "seed-sale-0151",
+    "productId": "seed-product-0038",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-04-16T03:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0151-02",
+    "saleId": "seed-sale-0151",
+    "productId": "seed-product-0073",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-04-16T03:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0151-03",
+    "saleId": "seed-sale-0151",
+    "productId": "seed-product-0041",
+    "qty": 4,
+    "sellPrice": "40000",
+    "subtotal": "160000",
+    "createdAt": "2026-04-16T03:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0151-04",
+    "saleId": "seed-sale-0151",
+    "productId": "seed-product-0019",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-04-16T03:20:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0152-01",
+    "saleId": "seed-sale-0152",
+    "productId": "seed-product-0035",
+    "qty": 3,
+    "sellPrice": "9500",
+    "subtotal": "28500",
+    "createdAt": "2026-04-16T04:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0152-02",
+    "saleId": "seed-sale-0152",
+    "productId": "seed-product-0024",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-04-16T04:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0153-01",
+    "saleId": "seed-sale-0153",
+    "productId": "seed-product-0121",
+    "qty": 5,
+    "sellPrice": "19000",
+    "subtotal": "95000",
+    "createdAt": "2026-04-18T06:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0153-02",
+    "saleId": "seed-sale-0153",
+    "productId": "seed-product-0093",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-04-18T06:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0153-03",
+    "saleId": "seed-sale-0153",
+    "productId": "seed-product-0134",
+    "qty": 19,
+    "sellPrice": "14000",
+    "subtotal": "266000",
+    "createdAt": "2026-04-18T06:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0153-04",
+    "saleId": "seed-sale-0153",
+    "productId": "seed-product-0029",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-04-18T06:34:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0154-01",
+    "saleId": "seed-sale-0154",
+    "productId": "seed-product-0019",
+    "qty": 4,
+    "sellPrice": "9500",
+    "subtotal": "38000",
+    "createdAt": "2026-04-20T05:37:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0154-02",
+    "saleId": "seed-sale-0154",
+    "productId": "seed-product-0084",
+    "qty": 10,
+    "sellPrice": "6000",
+    "subtotal": "60000",
+    "createdAt": "2026-04-20T05:37:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0154-03",
+    "saleId": "seed-sale-0154",
+    "productId": "seed-product-0001",
+    "qty": 4,
+    "sellPrice": "89000",
+    "subtotal": "356000",
+    "createdAt": "2026-04-20T05:37:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0154-04",
+    "saleId": "seed-sale-0154",
+    "productId": "seed-product-0046",
+    "qty": 6,
+    "sellPrice": "23500",
+    "subtotal": "141000",
+    "createdAt": "2026-04-20T05:37:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0154-05",
+    "saleId": "seed-sale-0154",
+    "productId": "seed-product-0103",
+    "qty": 3,
+    "sellPrice": "15500",
+    "subtotal": "46500",
+    "createdAt": "2026-04-20T05:37:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0155-01",
+    "saleId": "seed-sale-0155",
+    "productId": "seed-product-0083",
+    "qty": 22,
+    "sellPrice": "6000",
+    "subtotal": "132000",
+    "createdAt": "2026-04-20T08:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0155-02",
+    "saleId": "seed-sale-0155",
+    "productId": "seed-product-0030",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-04-20T08:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0155-03",
+    "saleId": "seed-sale-0155",
+    "productId": "seed-product-0064",
+    "qty": 4,
+    "sellPrice": "93000",
+    "subtotal": "372000",
+    "createdAt": "2026-04-20T08:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0155-04",
+    "saleId": "seed-sale-0155",
+    "productId": "seed-product-0021",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-04-20T08:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0155-05",
+    "saleId": "seed-sale-0155",
+    "productId": "seed-product-0001",
+    "qty": 4,
+    "sellPrice": "89000",
+    "subtotal": "356000",
+    "createdAt": "2026-04-20T08:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0156-01",
+    "saleId": "seed-sale-0156",
+    "productId": "seed-product-0061",
+    "qty": 4,
+    "sellPrice": "53000",
+    "subtotal": "212000",
+    "createdAt": "2026-04-21T05:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0156-02",
+    "saleId": "seed-sale-0156",
+    "productId": "seed-product-0135",
+    "qty": 1,
+    "sellPrice": "19000",
+    "subtotal": "19000",
+    "createdAt": "2026-04-21T05:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0156-03",
+    "saleId": "seed-sale-0156",
+    "productId": "seed-product-0112",
+    "qty": 1,
+    "sellPrice": "119000",
+    "subtotal": "119000",
+    "createdAt": "2026-04-21T05:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0156-04",
+    "saleId": "seed-sale-0156",
+    "productId": "seed-product-0057",
+    "qty": 5,
+    "sellPrice": "31000",
+    "subtotal": "155000",
+    "createdAt": "2026-04-21T05:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0156-05",
+    "saleId": "seed-sale-0156",
+    "productId": "seed-product-0056",
+    "qty": 3,
+    "sellPrice": "31000",
+    "subtotal": "93000",
+    "createdAt": "2026-04-21T05:18:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0157-01",
+    "saleId": "seed-sale-0157",
+    "productId": "seed-product-0006",
+    "qty": 218,
+    "sellPrice": "1500",
+    "subtotal": "327000",
+    "createdAt": "2026-04-21T10:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0157-02",
+    "saleId": "seed-sale-0157",
+    "productId": "seed-product-0145",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-04-21T10:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0157-03",
+    "saleId": "seed-sale-0157",
+    "productId": "seed-product-0047",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-04-21T10:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0157-04",
+    "saleId": "seed-sale-0157",
+    "productId": "seed-product-0095",
+    "qty": 3,
+    "sellPrice": "172500",
+    "subtotal": "517500",
+    "createdAt": "2026-04-21T10:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0157-05",
+    "saleId": "seed-sale-0157",
+    "productId": "seed-product-0115",
+    "qty": 5,
+    "sellPrice": "119000",
+    "subtotal": "595000",
+    "createdAt": "2026-04-21T10:19:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0158-01",
+    "saleId": "seed-sale-0158",
+    "productId": "seed-product-0064",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-04-21T10:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0158-02",
+    "saleId": "seed-sale-0158",
+    "productId": "seed-product-0068",
+    "qty": 8,
+    "sellPrice": "12500",
+    "subtotal": "100000",
+    "createdAt": "2026-04-21T10:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0158-03",
+    "saleId": "seed-sale-0158",
+    "productId": "seed-product-0031",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-04-21T10:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0158-04",
+    "saleId": "seed-sale-0158",
+    "productId": "seed-product-0036",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-04-21T10:56:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0159-01",
+    "saleId": "seed-sale-0159",
+    "productId": "seed-product-0086",
+    "qty": 3,
+    "sellPrice": "490000",
+    "subtotal": "1470000",
+    "createdAt": "2026-04-22T05:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0159-02",
+    "saleId": "seed-sale-0159",
+    "productId": "seed-product-0089",
+    "qty": 6,
+    "sellPrice": "33000",
+    "subtotal": "198000",
+    "createdAt": "2026-04-22T05:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0159-03",
+    "saleId": "seed-sale-0159",
+    "productId": "seed-product-0056",
+    "qty": 13,
+    "sellPrice": "31000",
+    "subtotal": "403000",
+    "createdAt": "2026-04-22T05:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0159-04",
+    "saleId": "seed-sale-0159",
+    "productId": "seed-product-0016",
+    "qty": 5,
+    "sellPrice": "6000",
+    "subtotal": "30000",
+    "createdAt": "2026-04-22T05:16:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0160-01",
+    "saleId": "seed-sale-0160",
+    "productId": "seed-product-0012",
+    "qty": 5,
+    "sellPrice": "106000",
+    "subtotal": "530000",
+    "createdAt": "2026-04-22T07:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0160-02",
+    "saleId": "seed-sale-0160",
+    "productId": "seed-product-0145",
+    "qty": 3,
+    "sellPrice": "93000",
+    "subtotal": "279000",
+    "createdAt": "2026-04-22T07:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0160-03",
+    "saleId": "seed-sale-0160",
+    "productId": "seed-product-0113",
+    "qty": 5,
+    "sellPrice": "119000",
+    "subtotal": "595000",
+    "createdAt": "2026-04-22T07:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0160-04",
+    "saleId": "seed-sale-0160",
+    "productId": "seed-product-0037",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-04-22T07:26:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0161-01",
+    "saleId": "seed-sale-0161",
+    "productId": "seed-product-0084",
+    "qty": 3,
+    "sellPrice": "6000",
+    "subtotal": "18000",
+    "createdAt": "2026-04-22T10:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0161-02",
+    "saleId": "seed-sale-0161",
+    "productId": "seed-product-0035",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-04-22T10:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0161-03",
+    "saleId": "seed-sale-0161",
+    "productId": "seed-product-0028",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-04-22T10:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0161-04",
+    "saleId": "seed-sale-0161",
+    "productId": "seed-product-0030",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-04-22T10:25:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0162-01",
+    "saleId": "seed-sale-0162",
+    "productId": "seed-product-0158",
+    "qty": 1,
+    "sellPrice": "245000",
+    "subtotal": "245000",
+    "createdAt": "2026-04-23T01:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0162-02",
+    "saleId": "seed-sale-0162",
+    "productId": "seed-product-0021",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-04-23T01:48:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0163-01",
+    "saleId": "seed-sale-0163",
+    "productId": "seed-product-0022",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-24T08:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0163-02",
+    "saleId": "seed-sale-0163",
+    "productId": "seed-product-0080",
+    "qty": 7,
+    "sellPrice": "11000",
+    "subtotal": "77000",
+    "createdAt": "2026-04-24T08:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0163-03",
+    "saleId": "seed-sale-0163",
+    "productId": "seed-product-0083",
+    "qty": 22,
+    "sellPrice": "6000",
+    "subtotal": "132000",
+    "createdAt": "2026-04-24T08:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0163-04",
+    "saleId": "seed-sale-0163",
+    "productId": "seed-product-0050",
+    "qty": 4,
+    "sellPrice": "11000",
+    "subtotal": "44000",
+    "createdAt": "2026-04-24T08:57:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0164-01",
+    "saleId": "seed-sale-0164",
+    "productId": "seed-product-0027",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-04-25T02:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0164-02",
+    "saleId": "seed-sale-0164",
+    "productId": "seed-product-0097",
+    "qty": 8,
+    "sellPrice": "15500",
+    "subtotal": "124000",
+    "createdAt": "2026-04-25T02:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0164-03",
+    "saleId": "seed-sale-0164",
+    "productId": "seed-product-0041",
+    "qty": 7,
+    "sellPrice": "40000",
+    "subtotal": "280000",
+    "createdAt": "2026-04-25T02:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0164-04",
+    "saleId": "seed-sale-0164",
+    "productId": "seed-product-0084",
+    "qty": 10,
+    "sellPrice": "6000",
+    "subtotal": "60000",
+    "createdAt": "2026-04-25T02:59:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0165-01",
+    "saleId": "seed-sale-0165",
+    "productId": "seed-product-0092",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-04-25T04:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0165-02",
+    "saleId": "seed-sale-0165",
+    "productId": "seed-product-0006",
+    "qty": 111,
+    "sellPrice": "1500",
+    "subtotal": "166500",
+    "createdAt": "2026-04-25T04:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0165-03",
+    "saleId": "seed-sale-0165",
+    "productId": "seed-product-0099",
+    "qty": 2,
+    "sellPrice": "19000",
+    "subtotal": "38000",
+    "createdAt": "2026-04-25T04:03:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0166-01",
+    "saleId": "seed-sale-0166",
+    "productId": "seed-product-0016",
+    "qty": 4,
+    "sellPrice": "6000",
+    "subtotal": "24000",
+    "createdAt": "2026-04-26T01:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0166-02",
+    "saleId": "seed-sale-0166",
+    "productId": "seed-product-0028",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-04-26T01:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0166-03",
+    "saleId": "seed-sale-0166",
+    "productId": "seed-product-0073",
+    "qty": 11,
+    "sellPrice": "119000",
+    "subtotal": "1309000",
+    "createdAt": "2026-04-26T01:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0166-04",
+    "saleId": "seed-sale-0166",
+    "productId": "seed-product-0159",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-04-26T01:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0166-05",
+    "saleId": "seed-sale-0166",
+    "productId": "seed-product-0071",
+    "qty": 11,
+    "sellPrice": "115000",
+    "subtotal": "1265000",
+    "createdAt": "2026-04-26T01:22:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0167-01",
+    "saleId": "seed-sale-0167",
+    "productId": "seed-product-0130",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-04-26T08:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0167-02",
+    "saleId": "seed-sale-0167",
+    "productId": "seed-product-0089",
+    "qty": 4,
+    "sellPrice": "33000",
+    "subtotal": "132000",
+    "createdAt": "2026-04-26T08:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0167-03",
+    "saleId": "seed-sale-0167",
+    "productId": "seed-product-0140",
+    "qty": 1,
+    "sellPrice": "367500",
+    "subtotal": "367500",
+    "createdAt": "2026-04-26T08:35:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0168-01",
+    "saleId": "seed-sale-0168",
+    "productId": "seed-product-0037",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-04-27T02:55:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0168-02",
+    "saleId": "seed-sale-0168",
+    "productId": "seed-product-0104",
+    "qty": 1,
+    "sellPrice": "40000",
+    "subtotal": "40000",
+    "createdAt": "2026-04-27T02:55:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0169-01",
+    "saleId": "seed-sale-0169",
+    "productId": "seed-product-0014",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-04-28T01:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0169-02",
+    "saleId": "seed-sale-0169",
+    "productId": "seed-product-0125",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-04-28T01:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0169-03",
+    "saleId": "seed-sale-0169",
+    "productId": "seed-product-0025",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-04-28T01:02:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0170-01",
+    "saleId": "seed-sale-0170",
+    "productId": "seed-product-0023",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-04-30T02:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0170-02",
+    "saleId": "seed-sale-0170",
+    "productId": "seed-product-0146",
+    "qty": 1,
+    "sellPrice": "93000",
+    "subtotal": "93000",
+    "createdAt": "2026-04-30T02:41:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0171-01",
+    "saleId": "seed-sale-0171",
+    "productId": "seed-product-0084",
+    "qty": 7,
+    "sellPrice": "6000",
+    "subtotal": "42000",
+    "createdAt": "2026-04-30T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0171-02",
+    "saleId": "seed-sale-0171",
+    "productId": "seed-product-0077",
+    "qty": 8,
+    "sellPrice": "31000",
+    "subtotal": "248000",
+    "createdAt": "2026-04-30T10:50:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0172-01",
+    "saleId": "seed-sale-0172",
+    "productId": "seed-product-0025",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-05-01T01:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0172-02",
+    "saleId": "seed-sale-0172",
+    "productId": "seed-product-0044",
+    "qty": 1,
+    "sellPrice": "40000",
+    "subtotal": "40000",
+    "createdAt": "2026-05-01T01:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0172-03",
+    "saleId": "seed-sale-0172",
+    "productId": "seed-product-0102",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-05-01T01:47:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0173-01",
+    "saleId": "seed-sale-0173",
+    "productId": "seed-product-0012",
+    "qty": 5,
+    "sellPrice": "106000",
+    "subtotal": "530000",
+    "createdAt": "2026-05-01T06:53:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0173-02",
+    "saleId": "seed-sale-0173",
+    "productId": "seed-product-0036",
+    "qty": 5,
+    "sellPrice": "9500",
+    "subtotal": "47500",
+    "createdAt": "2026-05-01T06:53:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0174-01",
+    "saleId": "seed-sale-0174",
+    "productId": "seed-product-0137",
+    "qty": 3,
+    "sellPrice": "40000",
+    "subtotal": "120000",
+    "createdAt": "2026-05-01T07:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0174-02",
+    "saleId": "seed-sale-0174",
+    "productId": "seed-product-0053",
+    "qty": 1,
+    "sellPrice": "9500",
+    "subtotal": "9500",
+    "createdAt": "2026-05-01T07:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0174-03",
+    "saleId": "seed-sale-0174",
+    "productId": "seed-product-0020",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-05-01T07:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0174-04",
+    "saleId": "seed-sale-0174",
+    "productId": "seed-product-0134",
+    "qty": 12,
+    "sellPrice": "14000",
+    "subtotal": "168000",
+    "createdAt": "2026-05-01T07:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0174-05",
+    "saleId": "seed-sale-0174",
+    "productId": "seed-product-0103",
+    "qty": 3,
+    "sellPrice": "15500",
+    "subtotal": "46500",
+    "createdAt": "2026-05-01T07:49:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0175-01",
+    "saleId": "seed-sale-0175",
+    "productId": "seed-product-0017",
+    "qty": 1,
+    "sellPrice": "6000",
+    "subtotal": "6000",
+    "createdAt": "2026-05-03T05:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0175-02",
+    "saleId": "seed-sale-0175",
+    "productId": "seed-product-0159",
+    "qty": 3,
+    "sellPrice": "66000",
+    "subtotal": "198000",
+    "createdAt": "2026-05-03T05:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0175-03",
+    "saleId": "seed-sale-0175",
+    "productId": "seed-product-0028",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-05-03T05:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0175-04",
+    "saleId": "seed-sale-0175",
+    "productId": "seed-product-0029",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-05-03T05:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0175-05",
+    "saleId": "seed-sale-0175",
+    "productId": "seed-product-0020",
+    "qty": 8,
+    "sellPrice": "9500",
+    "subtotal": "76000",
+    "createdAt": "2026-05-03T05:29:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0176-01",
+    "saleId": "seed-sale-0176",
+    "productId": "seed-product-0108",
+    "qty": 1,
+    "sellPrice": "147500",
+    "subtotal": "147500",
+    "createdAt": "2026-05-04T02:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0176-02",
+    "saleId": "seed-sale-0176",
+    "productId": "seed-product-0160",
+    "qty": 2,
+    "sellPrice": "66000",
+    "subtotal": "132000",
+    "createdAt": "2026-05-04T02:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0176-03",
+    "saleId": "seed-sale-0176",
+    "productId": "seed-product-0057",
+    "qty": 11,
+    "sellPrice": "31000",
+    "subtotal": "341000",
+    "createdAt": "2026-05-04T02:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0176-04",
+    "saleId": "seed-sale-0176",
+    "productId": "seed-product-0074",
+    "qty": 4,
+    "sellPrice": "119000",
+    "subtotal": "476000",
+    "createdAt": "2026-05-04T02:09:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0177-01",
+    "saleId": "seed-sale-0177",
+    "productId": "seed-product-0037",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-05-04T09:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0177-02",
+    "saleId": "seed-sale-0177",
+    "productId": "seed-product-0045",
+    "qty": 3,
+    "sellPrice": "23500",
+    "subtotal": "70500",
+    "createdAt": "2026-05-04T09:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0177-03",
+    "saleId": "seed-sale-0177",
+    "productId": "seed-product-0102",
+    "qty": 3,
+    "sellPrice": "11000",
+    "subtotal": "33000",
+    "createdAt": "2026-05-04T09:43:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0178-01",
+    "saleId": "seed-sale-0178",
+    "productId": "seed-product-0082",
+    "qty": 2,
+    "sellPrice": "11000",
+    "subtotal": "22000",
+    "createdAt": "2026-05-05T04:33:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0178-02",
+    "saleId": "seed-sale-0178",
+    "productId": "seed-product-0001",
+    "qty": 2,
+    "sellPrice": "89000",
+    "subtotal": "178000",
+    "createdAt": "2026-05-05T04:33:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0178-03",
+    "saleId": "seed-sale-0178",
+    "productId": "seed-product-0127",
+    "qty": 1,
+    "sellPrice": "80000",
+    "subtotal": "80000",
+    "createdAt": "2026-05-05T04:33:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0179-01",
+    "saleId": "seed-sale-0179",
+    "productId": "seed-product-0096",
+    "qty": 3,
+    "sellPrice": "19000",
+    "subtotal": "57000",
+    "createdAt": "2026-05-05T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0179-02",
+    "saleId": "seed-sale-0179",
+    "productId": "seed-product-0008",
+    "qty": 3,
+    "sellPrice": "106000",
+    "subtotal": "318000",
+    "createdAt": "2026-05-05T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0179-03",
+    "saleId": "seed-sale-0179",
+    "productId": "seed-product-0001",
+    "qty": 7,
+    "sellPrice": "89000",
+    "subtotal": "623000",
+    "createdAt": "2026-05-05T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0179-04",
+    "saleId": "seed-sale-0179",
+    "productId": "seed-product-0025",
+    "qty": 7,
+    "sellPrice": "9500",
+    "subtotal": "66500",
+    "createdAt": "2026-05-05T08:28:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0180-01",
+    "saleId": "seed-sale-0180",
+    "productId": "seed-product-0146",
+    "qty": 2,
+    "sellPrice": "93000",
+    "subtotal": "186000",
+    "createdAt": "2026-05-05T09:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0180-02",
+    "saleId": "seed-sale-0180",
+    "productId": "seed-product-0021",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-05-05T09:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0180-03",
+    "saleId": "seed-sale-0180",
+    "productId": "seed-product-0028",
+    "qty": 2,
+    "sellPrice": "9500",
+    "subtotal": "19000",
+    "createdAt": "2026-05-05T09:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0180-04",
+    "saleId": "seed-sale-0180",
+    "productId": "seed-product-0020",
+    "qty": 6,
+    "sellPrice": "9500",
+    "subtotal": "57000",
+    "createdAt": "2026-05-05T09:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  },
+  {
+    "id": "seed-sale-item-0180-05",
+    "saleId": "seed-sale-0180",
+    "productId": "seed-product-0057",
+    "qty": 7,
+    "sellPrice": "31000",
+    "subtotal": "217000",
+    "createdAt": "2026-05-05T09:14:00.000Z",
+    "updatedAt": "2026-05-08T06:49:40.932Z"
+  }
+]

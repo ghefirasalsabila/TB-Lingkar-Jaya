@@ -1,0 +1,218 @@
+[
+  {
+    "id": "seed-notification-0001",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Fiber Pintu",
+    "message": "Stok Fiber Pintu (GHE-GEN-025) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0002",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Gergaji Besi + Mata",
+    "message": "Stok Gergaji Besi + Mata (GHE-BHL-006) tersisa 1, ambang 3.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0003",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Gunting Ranting",
+    "message": "Stok Gunting Ranting (GHE-GEN-015) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0004",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Kawat Las RB",
+    "message": "Stok Kawat Las RB (GHE-GEN-021) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": true,
+    "createdAt": "2026-05-04T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0005",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Kunci Pintu Set",
+    "message": "Stok Kunci Pintu Set (GHE-GEN-011) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-03T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0006",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Pegangan Pintu",
+    "message": "Stok Pegangan Pintu (GHE-GEN-012) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-02T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0007",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Pintu Kamar Mandi",
+    "message": "Stok Pintu Kamar Mandi (GHE-PWC-001) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-01T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0008",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Tang",
+    "message": "Stok Tang (GHE-GEN-020) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": true,
+    "createdAt": "2026-04-30T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0009",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Tedmon 1000L",
+    "message": "Stok Tedmon 1000L (GHE-GEN-004) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-04-29T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0010",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Tedmon 500L",
+    "message": "Stok Tedmon 500L (GHE-GEN-003) tersisa 1, ambang 2.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-08T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0011",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Gegep Kawat Ikat",
+    "message": "Stok Gegep Kawat Ikat (GHE-BHL-009) tersisa 2, ambang 3.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0012",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Gergaji Kayu",
+    "message": "Stok Gergaji Kayu (GHE-KYU-006) tersisa 2, ambang 3.",
+    "userId": "seed-user-owner",
+    "isRead": true,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0013",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Gunting Biasa",
+    "message": "Stok Gunting Biasa (GHE-GEN-016) tersisa 2, ambang 4.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0014",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Mata Bor Beton",
+    "message": "Stok Mata Bor Beton (GHE-GEN-007) tersisa 2, ambang 4.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-04T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0015",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Meteran Bangunan",
+    "message": "Stok Meteran Bangunan (GHE-ASM-009) tersisa 2, ambang 4.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-03T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0016",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Paku Payung Besar",
+    "message": "Stok Paku Payung Besar (GHE-PKU-009) tersisa 2, ambang 5.",
+    "userId": "seed-user-owner",
+    "isRead": true,
+    "createdAt": "2026-05-02T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0017",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Paku Seng/Alkan 0.5\"",
+    "message": "Stok Paku Seng/Alkan 0.5\" (GHE-PKU-011) tersisa 2, ambang 4.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-01T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0018",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Pernis Kayu Mowilex",
+    "message": "Stok Pernis Kayu Mowilex (GHE-CAT-012) tersisa 2, ambang 4.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-04-30T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0019",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Rol Kuas Besar",
+    "message": "Stok Rol Kuas Besar (GHE-CAT-003) tersisa 2, ambang 4.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-04-29T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0020",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Sekop",
+    "message": "Stok Sekop (GHE-ASM-005) tersisa 2, ambang 5.",
+    "userId": "seed-user-owner",
+    "isRead": true,
+    "createdAt": "2026-05-08T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0021",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Baut",
+    "message": "Stok Baut (GHE-GEN-019) tersisa 3, ambang 5.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0022",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Cangkul",
+    "message": "Stok Cangkul (GHE-ASM-006) tersisa 3, ambang 5.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0023",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Centong Perata",
+    "message": "Stok Centong Perata (GHE-ASM-002) tersisa 3, ambang 5.",
+    "userId": "seed-user-owner",
+    "isRead": false,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  },
+  {
+    "id": "seed-notification-0024",
+    "type": "LOW_STOCK",
+    "title": "Stok menipis: Centong Semen",
+    "message": "Stok Centong Semen (GHE-ASM-001) tersisa 3, ambang 5.",
+    "userId": "seed-user-owner",
+    "isRead": true,
+    "createdAt": "2026-05-04T06:49:39.513Z"
+  }
+]

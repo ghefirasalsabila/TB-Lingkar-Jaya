@@ -1,0 +1,51 @@
+[
+  {
+    "id": "seed-user-owner",
+    "name": "Owner Ghefira",
+    "email": "owner@tblingkarjaya.com",
+    "role": "OWNER",
+    "password": "Owner123@!00#"
+  },
+  {
+    "id": "seed-user-employee-1",
+    "name": "Alya Kasir",
+    "email": "alya@tblingkarjaya.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  },
+  {
+    "id": "seed-user-employee-2",
+    "name": "Bima Gudang",
+    "email": "bima@tblingkarjaya.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  },
+  {
+    "id": "seed-user-employee-3",
+    "name": "Citra Admin",
+    "email": "citra@tblingkarjaya.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  },
+  {
+    "id": "seed-user-employee-4",
+    "name": "Dion Counter",
+    "email": "dion@tblingkarjaya.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  },
+  {
+    "id": "seed-user-employee-5",
+    "name": "Eka Sales",
+    "email": "eka@tblingkarjaya.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  },
+  {
+    "id": "seed-user-employee-6",
+    "name": "Faris Operasional",
+    "email": "faris@tblingkarjaya.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  }
+]

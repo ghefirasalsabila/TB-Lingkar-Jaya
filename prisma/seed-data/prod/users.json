@@ -1,0 +1,16 @@
+[
+  {
+    "id": "seed-user-owner",
+    "name": "Ghefira",
+    "email": "ghefiras19@gmail.com",
+    "role": "OWNER",
+    "password": "Owner123@!00#"
+  },
+  {
+    "id": "seed-user-employee-1",
+    "name": "Salsabila",
+    "email": "salsabilas0203@gmail.com",
+    "role": "EMPLOYEE",
+    "password": "Karyawan123@!00#"
+  }
+]

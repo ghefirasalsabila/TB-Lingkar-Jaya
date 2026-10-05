@@ -1,0 +1,242 @@
+[
+  {
+    "id": "seed-email-log-0001",
+    "productId": "seed-product-0154",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-07T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0002",
+    "productId": "seed-product-0078",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-06T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0003",
+    "productId": "seed-product-0144",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-05T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0004",
+    "productId": "seed-product-0150",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-04T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-04T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0005",
+    "productId": "seed-product-0140",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-03T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-03T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0006",
+    "productId": "seed-product-0141",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-02T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-02T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0007",
+    "productId": "seed-product-0118",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-08T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-08T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0008",
+    "productId": "seed-product-0149",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-07T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0009",
+    "productId": "seed-product-0133",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-06T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0010",
+    "productId": "seed-product-0132",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-05T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0011",
+    "productId": "seed-product-0081",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-04T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-04T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0012",
+    "productId": "seed-product-0116",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-03T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-03T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0013",
+    "productId": "seed-product-0145",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-02T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-02T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0014",
+    "productId": "seed-product-0136",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-08T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-08T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0015",
+    "productId": "seed-product-0127",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-07T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0016",
+    "productId": "seed-product-0062",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-06T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0017",
+    "productId": "seed-product-0064",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-05T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0018",
+    "productId": "seed-product-0109",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-04T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-04T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0019",
+    "productId": "seed-product-0100",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-03T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-03T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0020",
+    "productId": "seed-product-0123",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-02T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-02T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0021",
+    "productId": "seed-product-0148",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-08T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-08T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0022",
+    "productId": "seed-product-0124",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-07T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-07T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0023",
+    "productId": "seed-product-0120",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-06T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-06T06:49:39.513Z"
+  },
+  {
+    "id": "seed-email-log-0024",
+    "productId": "seed-product-0119",
+    "recipient": "ghefiras19@gmail.com",
+    "status": "sent",
+    "providerRef": "seed-smtp",
+    "sentAt": "2026-05-05T06:49:39.513Z",
+    "errorMessage": null,
+    "createdAt": "2026-05-05T06:49:39.513Z"
+  }
+]
