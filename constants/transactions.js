@@ -1,29 +1,42 @@
 const TRANSACTION_STATUSES = {
   POSTED: "POSTED",
-  VOIDED: "VOIDED"
+  VOIDED: "VOIDED",
 };
 
-const TRANSACTION_STATUS_VALUES = Object.values(TRANSACTION_STATUSES);
-
-const TRANSACTION_REFERENCE_TYPES = {
-  PURCHASE: "PURCHASE",
-  SALE: "SALE",
-  ADJUSTMENT: "ADJUSTMENT"
+export const TRANSACTION_STATUS_LABELS = {
+  [TRANSACTION_STATUSES.POSTED]: "Selesai",
+  [TRANSACTION_STATUSES.VOIDED]: "Dibatalkan",
 };
 
 const STOCK_MOVEMENT_TYPES = {
   IN: "IN",
   OUT: "OUT",
-  ADJUSTMENT: "ADJUSTMENT"
+  ADJUSTMENT: "ADJUSTMENT",
 };
 
-function isTransactionStatus(value) {
-  return TRANSACTION_STATUS_VALUES.includes(String(value || "").toUpperCase());
+export const STOCK_MOVEMENT_TYPE_LABELS = {
+  [STOCK_MOVEMENT_TYPES.IN]: "Masuk",
+  [STOCK_MOVEMENT_TYPES.OUT]: "Keluar",
+  [STOCK_MOVEMENT_TYPES.ADJUSTMENT]: "Penyesuaian",
+};
+
+const STOCK_MOVEMENT_REFERENCE_TYPES = {
+  PURCHASE: "PURCHASE",
+  SALE: "SALE",
+  ADJUSTMENT: "ADJUSTMENT",
+};
+
+export const STOCK_MOVEMENT_REFERENCE_LABELS = {
+  [STOCK_MOVEMENT_REFERENCE_TYPES.PURCHASE]: "Pembelian",
+  [STOCK_MOVEMENT_REFERENCE_TYPES.SALE]: "Penjualan",
+  [STOCK_MOVEMENT_REFERENCE_TYPES.ADJUSTMENT]: "Penyesuaian",
+};
+
+export const TRANSACTION_REFERENCE_PREFIXES = {
+  PURCHASE: "PBL",
+  SALE: "PNJ",
+};
+
+export function isVoidedTransactionStatus(status) {
+  return String(status || "").toUpperCase() === TRANSACTION_STATUSES.VOIDED;
 }
-
-module.exports = {
-  TRANSACTION_STATUSES,
-  TRANSACTION_REFERENCE_TYPES,
-  STOCK_MOVEMENT_TYPES,
-  isTransactionStatus
-};
